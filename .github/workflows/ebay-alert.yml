@@ -1,0 +1,38 @@
+name: eBay Gold- und Diamantschmuck-Alarm
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-alert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Skript ausführen
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: python ebay_alert.py
+
+      - name: Zustand und Treffer-Feed speichern
+        run: |
+          git config user.name "ebay-alert-bot"
+          git config user.email "actions@github.com"
+          git add state/seen_items.json state/latest_matches.json
+          git diff --staged --quiet || git commit -m "Update state and matches feed"
+          git push
