@@ -1,5 +1,58 @@
 [
   {
+    "itemId": "v1|257670950208|0",
+    "objekt": "1 Gramm Goldbarren 999,9er, von C. Hafner, im originalen Herstellerblister!",
+    "gebot": "135.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/257670950208?_skw=goldbarren+999&hash=item3bfe62ad40:g:6bAAAeSwoUJqeILj",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-09T15:19:49.464027+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:135.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|168600724277|0",
+    "objekt": "Goldbarren 1 Gramm 999.9  Gold  von HERAEUS.",
+    "gebot": "138.50",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168600724277?_skw=goldbarren+999&hash=item274162e335:g:WwEAAeSwPoZqeJQQ",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-09T15:19:49.464027+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:138.5€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|168600715722|0",
+    "objekt": "Goldbarren 1 Gramm 999.9  Gold  von HERAEUS.",
+    "gebot": "139.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168600715722?_skw=goldbarren+999&hash=item274162c1ca:g:SXAAAeSwCz5qeJMl",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-09T15:19:49.464027+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:139.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|117348820197|0",
+    "objekt": "Anlage- und Goldmünze - Wiener Philharmoniker - Jahrgang 2008",
+    "gebot": "616.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/117348820197?_skw=wiener+philharmoniker+gold&hash=item1b5288e4e5:g:1jUAAeSw-Bhp9M~t",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-09T15:19:49.464027+00:00"
+  },
+  {
     "itemId": "v1|117348785927|0",
     "objekt": "Goldbarren 2,5 Gramm  999.9 Gold Heimerle + Meule  original geblistert",
     "gebot": "335.00",
@@ -2216,50 +2269,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "99.8",
     "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-08T20:15:43.995833+00:00"
-  },
-  {
-    "itemId": "v1|227452381876|0",
-    "objekt": "Cartier Au 750er Gold LOVE Wedding Band Ring (#46)",
-    "gebot": "1253.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/227452381876?_skw=Cartier+ring+gold&hash=item34f537eab4:g:MKAAAeSwgYVqd4Mc&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGayVYf04vbfw0X4AOkbO4W9dlDAedHZiwM49mEe6cBX%2BQGAZRKeVU5nzg8al00r7AaiMmvPpHqp7gN7TJpQOcm3zpsUvMlF9kR5xawP0WIaM5RVGUTwJdVvr8RqZGz95S8blIfLS0suOxZM8qQBYEs1ur6YTuktZkFK5HcBOqpQgVKa4VjTQONukZUJlddWzdp1T1XOZrlzQC%2BvdrmUPdjxZC3wl%2FOXIghIzhwiQ4r%2Bcqw3%2B175CwKY9lBYJEqXs8EJV52d0wcm3VzPnPK9hYro5i6tL4nIovDHXs5yTDpOsw%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.9",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-08T20:15:43.995833+00:00"
-  },
-  {
-    "itemId": "v1|257662667331|0",
-    "objekt": "Tiffany & Co. Ring Gold & Diamant Krappenfassung",
-    "gebot": "1853.10",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/257662667331?_skw=Tiffany+gold+ring&hash=item3bfde44a43:g:AvQAAeSwjYdqcsy9&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZ5oOzLfQvRSwFHiVOSdRhTj7MWbURkiAiY1WkqKTo%2BKiNQmM40gw9KmbTv7acZ5bmrtLDatm9iII1rMR3SGqexiVjKXTAVniIzLps%2Fo9i3JDFDNDyfkYAJ847IWFFmiahl%2FCJcQA3m14rcPOWvVUHeglNLz35jBaBrP8PYtlegBTkKdj4XVZvoswqeMEiVZm97NBf2E31j4bfMyhZ44PFHZIbgkINGB%2F3GtGe7dT9esWo2Cz6iMtGjVqLFrjDcjywwtHX%2BA6QQEbAfkOFcj8AvlvpYRWKhFsMsggT1LjDh2w%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-08T20:15:43.995833+00:00"
-  },
-  {
-    "itemId": "v1|327274416900|0",
-    "objekt": "Bulgari B - Zero 1 Ring - 3 Band in 18KT Weißgold - Gr. 58 mit Bulgari Box",
-    "gebot": "1799.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/327274416900?_skw=Bulgari+ring+gold&hash=item4c33134b04:g:jRMAAeSwpZxpqZSD",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Bulgari)",
-    "gefundenAm": "2026-08-08T20:15:43.995833+00:00"
-  },
-  {
-    "itemId": "v1|327141079184|0",
-    "objekt": "Bulgari B - Zero 1 Ring - 3 Band in 18KT Weißgold - Gr. 54 mit Bulgari Box",
-    "gebot": "1399.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/327141079184?_skw=Bulgari+ring+gold&hash=item4c2b20b890:g:ZX4AAeSwM4hp-dBO",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Bulgari)",
     "gefundenAm": "2026-08-08T20:15:43.995833+00:00"
   }
 ]
