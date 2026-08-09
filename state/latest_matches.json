@@ -1,5 +1,30 @@
 [
   {
+    "itemId": "v1|168600311684|0",
+    "objekt": "3 x GOLDBARREN 0,01 Gramm 999,9 Feingold NZP Gold Barren 0,01g Miracle Gold",
+    "gebot": "59.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168600311684?_skw=goldbarren+999&hash=item27415c9784:g:Ks8AAeSwlShqeFYb",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.4",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-09T11:05:33.871305+00:00",
+    "materialwert": 1.21,
+    "bewertung": "Nicht kaufen:59.0€ über Materialwert 1€",
+    "material": "0.01g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|366594890489|0",
+    "objekt": "Cartier Santos 100 Automatik Chronograph Titan Schwarz Leder Armband defekt",
+    "gebot": "2550.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/366594890489?_skw=Cartier+armband&hash=item555ac21af9:g:imUAAeSwNtZqeFjK",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "0.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-09T11:05:33.871305+00:00"
+  },
+  {
     "itemId": "v1|198558432162|0",
     "objekt": "Original Cartier Diabolo Uhr in 750 Gelbgold, sehr guter Zustand",
     "gebot": "5800.00",
@@ -2223,28 +2248,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "100.0",
     "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-08T19:03:23.841605+00:00"
-  },
-  {
-    "itemId": "v1|137062688615|0",
-    "objekt": "1/4 oz $10 Maple Leaf Coin Bezel 20mm Twisted Prong 14k Yellow Gold",
-    "gebot": "314.03",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/137062688615?_skw=maple+leaf+gold+coin&hash=item1fe992a767:g:gFIAAeSwevVpnpvu&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGacrPWZI2FqGwyR9wQlmUjJoX4ej9ecI7y6%2F80Uwo1pvzMlPjj5Ji79JZHUyOpMtSGkxw28TD3wMKjVkL3xPyqtI264qf%2FQDm76bAQE6HC9PdZVJ1OUc%2Ff6dIq%2BIGfChb8DgDzrEDd30kopvw53CwwlfqcK5PTzI6jVjVTVZKceVusRKq3x0YCLt6inspiCC2KtJ%2FLnkVschzB7DTAUhtUGNKzDyCdohM0QNExDbnelNKgApatWpi5MZlM91j%2BIxXz32nhydqVnvPInbufnFX10UvsqppjbgeIlTiftMaOroQ%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-08T19:03:23.841605+00:00"
-  },
-  {
-    "itemId": "v1|178386994521|0",
-    "objekt": "Must de Cartier 21 solid gold and steel Watch Bracelet Links.",
-    "gebot": "676.94",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/178386994521?_skw=Cartier+armband&hash=item2988b18559:g:OzYAAeSwxxdqd1r3",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-08T19:03:23.841605+00:00"
   }
 ]
