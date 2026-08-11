@@ -1,5 +1,96 @@
 [
   {
+    "itemId": "v1|178395454224|0",
+    "objekt": "Heraeus Gold Feingoldbarren 5 g 999,9 Goldbarren Barren",
+    "gebot": "692.99",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/178395454224?_skw=goldbarren+999&hash=item2989329b10:g:gEEAAeSwgm9qaLlT",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-11T06:31:16.440730+00:00",
+    "materialwert": 605.39,
+    "bewertung": "Nicht kaufen:692.99€ über Materialwert 605€",
+    "material": "5.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|198345764125|497424380748",
+    "objekt": "Münztube 1oz Gold Krügerrand Maple Eagle Britannia Double Eagle 29-35mm Cointube",
+    "gebot": "7.39",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/198345764125?_skw=maple+leaf+gold+coin&var=497424380748&hash=item2e2e542d1d:g:BQ4AAeSw3Utp~~TF",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.7",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-11T06:31:16.440730+00:00"
+  },
+  {
+    "itemId": "v1|366598242821|0",
+    "objekt": "Tiffany Atlas 3P Diamant Ring K18WG Weißgold Größe 14 #14 #M-5211",
+    "gebot": "1702.53",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/366598242821?_skw=Tiffany+gold+ring&hash=item555af54205:g:rQMAAeSwk-9qerk-",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-11T06:31:16.440730+00:00"
+  },
+  {
+    "itemId": "v1|366598240499|0",
+    "objekt": "Tiffany & Co. Elsa Peretti Stacking Band Ring 18K Gelbgold Diamant #M-5198",
+    "gebot": "820.70",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/366598240499?_skw=Tiffany+gold+ring&hash=item555af538f3:g:s9cAAeSw6z1qerj~",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-11T06:31:16.440730+00:00"
+  },
+  {
+    "itemId": "v1|335983187058|0",
+    "objekt": "Ring Weißgold 750 mit Keramik, BULGARI, BVLGARI, 11,61 g",
+    "gebot": "1100.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/335983187058?_skw=Bulgari+ring+gold&hash=item4e3a289472:g:PDQAAOSwdCxoNvI4",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.6",
+    "grund": "Markenschmuck (Bulgari)",
+    "gefundenAm": "2026-08-11T06:31:16.440730+00:00"
+  },
+  {
+    "itemId": "v1|327304679130|0",
+    "objekt": "Cartier Ring Love Small Model B4085252 Vis 750(18K) Rose(Pink) Gold #52 US6",
+    "gebot": "1126.22",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/327304679130?_skw=Cartier+ring+gold&hash=item4c34e10eda:g:ugMAAeSwHgFqernK",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-11T06:31:16.440730+00:00"
+  },
+  {
+    "itemId": "v1|327304679051|0",
+    "objekt": "Cartier Ring ove Classic Model MM B4084859 Vis 750 Rose Gold #59 US8.75",
+    "gebot": "1602.70",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/327304679051?_skw=Cartier+ring+gold&hash=item4c34e10e8b:g:vpwAAeSwWKNqernG",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-11T06:31:16.440730+00:00"
+  },
+  {
+    "itemId": "v1|117041161240|0",
+    "objekt": "Cartier Santos Steel/Gold Watch Bracelet End-Link 17.9mm",
+    "gebot": "127.43",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/117041161240?_skw=Cartier+armband&hash=item1b40326418:g:7RsAAeSwO0Rpemad",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.7",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-11T06:31:16.440730+00:00"
+  },
+  {
     "itemId": "v1|168604674096|0",
     "objekt": "Germania Mint 1g Goldbarren - 2026 Jahr des Pferdes | 999,9 Feingold |",
     "gebot": "136.91",
@@ -2167,93 +2258,5 @@
     "materialwert": 121.08,
     "bewertung": "Nicht kaufen:134.17€ über Materialwert 121€",
     "material": "1.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|366596182120|0",
-    "objekt": "Cartier Love Ring kleines Modell K18 Weißgold Gr. 47 B4085147 #M-4333",
-    "gebot": "868.60",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/366596182120?_skw=Cartier+ring+gold&hash=item555ad5d068:g:WVIAAeSwC-FqeVla&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZTPf0Y4CiBZSieUmMYIoTwmnW2Alg8jp7QjL3c1Z215w60hE6v4OIO5XTRA2g4K9XSgnZzY0gelM%2BLp%2FUtGJwdxk%2B7pcjSofLPYOMMvB7vbrLjQzhNkpxukrdFLMhOBYiVc9WnEW07uB2tIwiJ8JNmdMpbY%2F9XnxgYWrlnmGzuxM%2FbIRJOuN9UCQD%2FxMkLkahdZt3ce4nyv6doM7mKE5LpEa3w60zk1cpkPM2g3M%2Bzo%2BHJE7VKHgFZsp%2FShNH%2BRtwoT3zGUuC6XR1pMeMfH47nMfYEsoQHglSXxKHAKdLZ6A%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-10T06:05:48.863631+00:00"
-  },
-  {
-    "itemId": "v1|366596182673|0",
-    "objekt": "Cartier Drei Gold Ehering K18 YG WG PG Gr. 49 #9 Damen Schmuck #M-4343",
-    "gebot": "1098.04",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/366596182673?_skw=Cartier+ring+gold&hash=item555ad5d291:g:U8IAAeSwbEhqeVlh",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-10T06:05:48.863631+00:00"
-  },
-  {
-    "itemId": "v1|318705323846|0",
-    "objekt": "Boucheron Ehering #46 Platin PT950 Damen [gebraucht]",
-    "gebot": "353.84",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/318705323846?_skw=Boucheron+ring&hash=item4a34514f46:g:NOoAAeSwFuJqWXx2&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYWGUwaJl97brgTXxp8U5crSX7ftD9ScJHbIkUXhTWzvLilUSqmnsCeXbbO8DPlXT7BV6gsf%2BMJSOLub7pqfe%2BqrnPu%2Bn6BjInGEgk8iUzaPVgDXb7JaltFsFyf5ppyOBDjjWT0fljYKyJkG%2F8MjLHfGUvjuxgLws4Rf5VG6mvIVNbfPryPWp%2FLijVB95Pnyvk9OvJhHU1%2FdC5e3bdgkBQXyNhzIJ2SepbhHsHYYESHgaRl71J1q0IzUmujCr41y67CFvSmI4X6pXGOILQ4MxOei4E0QJhpqrnBnEnhmXoR3g%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.6",
-    "grund": "Markenschmuck (Boucheron)",
-    "gefundenAm": "2026-08-10T06:05:48.863631+00:00"
-  },
-  {
-    "itemId": "v1|128018700335|0",
-    "objekt": "Diamant-Verlobungsring 18 K Multigold IGI-zertifiziert im Labor gezüchtet...",
-    "gebot": "3216.94",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128018700335?_skw=diamant+ring+IGI&hash=item1dce82582f:g:AeEAAeSwPZVqeV2E",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-10T06:05:48.863631+00:00"
-  },
-  {
-    "itemId": "v1|128018711964|0",
-    "objekt": "18 K Weißgold IGI-zertifizierter im Labor gezüchteter Diamant Ehering 6,00...",
-    "gebot": "3248.08",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128018711964?_skw=diamant+ring+IGI&hash=item1dce82859c:g:GMUAAeSwVopqeWEV",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-10T06:05:48.863631+00:00"
-  },
-  {
-    "itemId": "v1|128018725276|0",
-    "objekt": "Diamant Ehering 18 K Multi Gold IGI zertifiziert im Labor gezüchtet 6,00 ct...",
-    "gebot": "3174.55",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128018725276?_skw=diamant+ring+IGI&hash=item1dce82b99c:g:4xIAAeSwVnNqeWeu",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-10T06:05:48.863631+00:00"
-  },
-  {
-    "itemId": "v1|128018700359|0",
-    "objekt": "18 K Weißgold IGI-zertifizierter im Labor gezüchteter Diamant Ehering 5,50...",
-    "gebot": "2863.15",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128018700359?_skw=diamant+ring+IGI&hash=item1dce825847:g:-4oAAeSw7-lqeVzR",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-10T06:05:48.863631+00:00"
-  },
-  {
-    "itemId": "v1|128018724651|0",
-    "objekt": "18 K Gelbgold IGI-zertifizierter, im Labor hergestellter Diamant-Ehering...",
-    "gebot": "2620.95",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128018724651?_skw=diamant+ring+IGI&hash=item1dce82b72b:g:p04AAeSwQGhqeWfw",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-10T06:05:48.863631+00:00"
   }
 ]
