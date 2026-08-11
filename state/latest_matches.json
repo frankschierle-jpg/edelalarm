@@ -1,5 +1,41 @@
 [
   {
+    "itemId": "v1|800444601689|0",
+    "objekt": "1 g Goldbarren 999,9 quadratisch von Heraeus im Blister",
+    "gebot": "199.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/800444601689?_skw=goldbarren+999&hash=itemba5e375559:g:CGUAAeSw24RqYPzr",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "96.7",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-11T18:08:10.130702+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:199.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|198563321175|0",
+    "objekt": "Bulgari B.zero1 Ring – Marmor 750/- Roségold Weite: 53 mit original Etui",
+    "gebot": "1760.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/198563321175?_skw=Bulgari+ring+gold&hash=item2e3b4bd557:g:530AAeSwiiFqewTm",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Bulgari)",
+    "gefundenAm": "2026-08-11T18:08:10.130702+00:00"
+  },
+  {
+    "itemId": "v1|406374173492|0",
+    "objekt": "Diamant Ring Verlobung Gold Lab Grown Rundschliff IGI 18k Weiß E F VS 1,90 Karat",
+    "gebot": "1688.31",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/406374173492?_skw=diamant+ring+IGI&hash=item5e9dc9cb34:g:w4kAAOSw2qRoHGAl",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-11T18:08:10.130702+00:00"
+  },
+  {
     "itemId": "v1|398274510215|0",
     "objekt": "PAMP Suisse Goldbarren 1 Gramm Schule / Bildung ",
     "gebot": "389.99",
@@ -2206,39 +2242,6 @@
     "gebot": "175.00",
     "waehrung": "EUR",
     "link": "https://www.ebay.nl/itm/267752920809?_skw=Cartier+armband&hash=item3e575156e9:g:bEUAAOSwpPRlW-nM",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-10T17:09:59.911335+00:00"
-  },
-  {
-    "itemId": "v1|267752920837|0",
-    "objekt": "Bracelet En Crocodile Bordeaux Cartier Pasha 38mm 20/18 Pour Boucle",
-    "gebot": "135.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/267752920837?_skw=Cartier+armband&hash=item3e57515705:g:PrYAAOSwws5l~yDK",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-10T17:09:59.911335+00:00"
-  },
-  {
-    "itemId": "v1|257672962324|0",
-    "objekt": "Bracelet En Cuir Martelé Taupe Cartier Tank Solo XL Réf. 3800",
-    "gebot": "90.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/257672962324?_skw=Cartier+armband&hash=item3bfe816114:g:fFMAAOSwG65oOtA-",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-10T17:09:59.911335+00:00"
-  },
-  {
-    "itemId": "v1|267752920793|0",
-    "objekt": "Bracelet En Alligator Mat Marron Pour Cartier Santos Taille 20/18",
-    "gebot": "240.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/267752920793?_skw=Cartier+armband&hash=item3e575156d9:g:8EMAAOSwt35d1vfn",
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "99.0",
     "grund": "Markenschmuck (Cartier)",
