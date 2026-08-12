@@ -1,5 +1,30 @@
 [
   {
+    "itemId": "v1|168609265614|0",
+    "objekt": "Goldbarren 5g Degussa. Orginal 999,9 Feingold im Blister, Wertanlage, Edelmetall",
+    "gebot": "624.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168609265614?_skw=goldbarren+999&hash=item2741e537ce:g:NpYAAeSwS4pqe4Ml",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-12T23:59:09.394881+00:00",
+    "materialwert": 605.39,
+    "bewertung": "Nicht kaufen:624.0€ über Materialwert 605€",
+    "material": "5.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|398279139684|0",
+    "objekt": "Tiffany Wave 5-reihiger Diamant Ring K18 18K Gelbgold US 5,5-5,75",
+    "gebot": "2391.80",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/398279139684?_skw=Tiffany+gold+ring&hash=item5cbb496164:g:ZcUAAeSwjgRqfPtq",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-12T23:59:09.394881+00:00"
+  },
+  {
     "itemId": "v1|398279104279|0",
     "objekt": "Tiffany & Co. Classic Band 3P Diamant Ehering 18K Roségold US 4,75-5",
     "gebot": "566.68",
@@ -2218,27 +2243,5 @@
     "haendlerbewertung": "99.4",
     "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-11T22:05:56.082118+00:00"
-  },
-  {
-    "itemId": "v1|377411012777|0",
-    "objekt": "1974 1 oz Krugerrand Goldmünze Südafrikaner mit einem Gewicht von 1 Unze",
-    "gebot": "4000.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/377411012777?_skw=krugerrand+gold&hash=item57df7308a9:g:Wo0AAeSwQzFqe4kz",
-    "haendlertyp": "",
-    "haendlerbewertung": "0.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-11T21:08:27.116277+00:00"
-  },
-  {
-    "itemId": "v1|267743650149|0",
-    "objekt": "Cartier Mini Love Ring 18K Weißgold 750 Gr.61 9-9,5 (US) 90333058",
-    "gebot": "897.21",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/267743650149?_skw=Cartier+ring+gold&hash=item3e56c3e165:g:yssAAeSwUr5qbBfZ",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-11T21:08:27.116277+00:00"
   }
 ]
