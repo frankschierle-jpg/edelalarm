@@ -1,5 +1,30 @@
 [
   {
+    "itemId": "v1|398277131016|0",
+    "objekt": "Pamp Suisse 1 Gramm  Goldbarren 999.9",
+    "gebot": "365.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/398277131016?_skw=goldbarren+999&hash=item5cbb2abb08:g:z5sAAeSw0F5qBfrM",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-12T09:58:12.372260+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:365.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|117354852476|0",
+    "objekt": "Van Cleef & Arpels Damen Ring 11 K18 Gelbgold YG Onyx Vintage Alhambra Ri...",
+    "gebot": "3095.65",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/117354852476?_skw=Van+Cleef+Arpels+ring&hash=item1b52e4f07c:g:oSkAAeSwbqVqfDWU",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.2",
+    "grund": "Markenschmuck (Van Cleef)",
+    "gefundenAm": "2026-08-12T09:58:12.372260+00:00"
+  },
+  {
     "itemId": "v1|137455111211|0",
     "objekt": "CARTIER LOVE RING 18K GELBGOLD 6 DIAMANTEN / YELLOW GOLD 6 DIAMONDS (51)",
     "gebot": "2395.00",
@@ -2227,27 +2252,5 @@
     "haendlerbewertung": "99.5",
     "grund": "Markenschmuck (Van Cleef)",
     "gefundenAm": "2026-08-11T08:42:27.345349+00:00"
-  },
-  {
-    "itemId": "v1|128020469411|0",
-    "objekt": "950 Platin IGI-zertifiziert im Labor gezüchteter Diamant Jubiläumsring 3,75...",
-    "gebot": "2313.88",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128020469411?_skw=diamant+ring+IGI&hash=item1dce9d56a3:g:2CEAAeSw9~xqetVl",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-11T08:42:27.345349+00:00"
-  },
-  {
-    "itemId": "v1|327304756062|0",
-    "objekt": "Tiffany & Co. Ring Stacking 3 Punkt Baguetteschliff Rubin 750(18K) Gelbgold US4,5",
-    "gebot": "970.29",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/327304756062?_skw=Tiffany+gold+ring&hash=item4c34e23b5e:g:2CgAAeSwFkJqesO-",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-11T07:50:02.550768+00:00"
   }
 ]
