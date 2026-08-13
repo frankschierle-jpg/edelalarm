@@ -1,5 +1,16 @@
 [
   {
+    "itemId": "v1|206488529034|0",
+    "objekt": "Tiffany & Co. T T1 Ring 18k  Rose Gold Size 6",
+    "gebot": "1041.12",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/206488529034?_skw=Tiffany+gold+ring&hash=item3013ace88a:g:VGEAAeSw16Zpxscf",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.9",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-13T18:08:26.473172+00:00"
+  },
+  {
     "itemId": "v1|237003233605|0",
     "objekt": "BVLGARI B Zero Ring 18K 750 Rosegold Selten 4 Band Größe 62 Bulgari",
     "gebot": "2490.00",
@@ -2265,19 +2276,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-12T15:15:43.426293+00:00"
-  },
-  {
-    "itemId": "v1|377410954436|0",
-    "objekt": "1x Krügerrand 1967 Goldmünze 1OZ + 1 Palladiumbarren 50g | 999,5 | Zertifikat",
-    "gebot": "6550.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/377410954436?_skw=goldbarren+999&hash=item57df7224c4:g:noUAAeSw2RBqfG4i",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "0.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-12T14:02:23.867505+00:00",
-    "materialwert": 6053.94,
-    "bewertung": "Nicht kaufen:6550.0€ über Materialwert 6054€",
-    "material": "50.0g Feingold 999.9"
   }
 ]
