@@ -1,5 +1,16 @@
 [
   {
+    "itemId": "v1|398290200835|0",
+    "objekt": "Tiffany & Co. T One Ring K18 Rosegold US 3,75 Japan 6",
+    "gebot": "1249.01",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/398290200835?_skw=Tiffany+gold+ring&hash=item5cbbf22903:g:9g0AAeSwcShqgO8R",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-15T23:10:01.035819+00:00"
+  },
+  {
     "itemId": "v1|407147571744|0",
     "objekt": "Exklusiver 1.34 ct Diamantring 18K Gelbgold – 1.00 ct Square Emerald H/VVS IGI",
     "gebot": "4500.00",
@@ -2235,16 +2246,5 @@
     "materialwert": 605.39,
     "bewertung": "Beobachten:554.22€ nahe Materialwert 605€, aber kein Puffer mehr",
     "material": "5.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|198345764125|497424380742",
-    "objekt": "Münztube 1oz Gold Krügerrand Maple Eagle Britannia Double Eagle 29-35mm Cointube",
-    "gebot": "6.79",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/198345764125?_skw=krugerrand+gold&var=497424380742&hash=item2e2e542d1d:g:BQ4AAeSw3Utp~~TF&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYrnmeY6xlBrTKuqQyK2Ho4b4ReMNKEhPOfd%2FUsFd3sGOdfD6gmkB6xOXye4Y2xU%2BUjjopc%2Bph24rpztyCad3kUh%2FY6DjHH8zW%2BYcob5cSl2r1UNuDhAZwt0PAKpB%2BP5UrDN7ttXiNMxMV7qmljGISaaHyl4liVPcB1oy%2BjeOSxcQMuenq3Dj8Rgb0GSbhfXPOFvn8LWVe1cx1G%2FUghxKeXzqEowzxIlJl%2Bcqsw6sRhNUiAg7SyYAXjPgM7ShuTHjvOFYRlrzocOYUULLHpqmdWpy8DNWBwbv5jv6Vpx87mwQ%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.8",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-14T20:47:06.212783+00:00"
   }
 ]
