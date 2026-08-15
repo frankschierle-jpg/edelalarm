@@ -1,5 +1,30 @@
 [
   {
+    "itemId": "v1|257682850796|0",
+    "objekt": "1 Gramm Goldmünze, 999,9er, Maple Leaf, in kleinem Herstellerblister",
+    "gebot": "140.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/257682850796?_skw=goldbarren+999&hash=item3bff1843ec:g:7gUAAeSwKTRqgLCV&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb0eQS7oyFDyhvJiF6hPmQmzAXuuu%2BgbcrFFsKiy1jjrgwl5%2B4TZjgFW3qdYAx0tzypLAkGdqekxuAMTQVNvfFZI3hmRTGzbjPAhp2o0vkWjPRcMZwrJoROu0bYNEQrFzCiUqdLc9BlPCfd1p5xHv6BoRcXDXEeMc%2FwS3VpPrFuC6iM%2FsTWsuPu4qYgbUiG1csUZl%2BxUsKxbrLEn2wuNjNSfhPqmY8846Ed5b1mM%2FfcZESAHFgU%2FW2uj4cfekkxlj2Wibbx3pV8l%2FwCaILpdFMxa8kB%2BM1edDbzvIBhMig8LQ%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-15T23:51:14.836259+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:140.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|287526995666|0",
+    "objekt": "Cartier Ring 18K mehrfarbiges Gold, ohne Stein, Größe 50 (15,9 mm)",
+    "gebot": "1599.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/287526995666?_skw=Cartier+ring+gold&hash=item42f1f1c6d2:g:eVoAAeSwPZVqfd9U",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-15T23:51:14.836259+00:00"
+  },
+  {
     "itemId": "v1|398290249242|0",
     "objekt": "Tiffany & Co. Stacking Band 1PD Ring 18K Gelbgold Diamant US 8,25",
     "gebot": "989.88",
@@ -2220,28 +2245,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "100.0",
     "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-14T21:14:42.247339+00:00"
-  },
-  {
-    "itemId": "v1|398286173588|0",
-    "objekt": "Cartier Trinity Ring B4234254 18K Pink Yellow White Gold US 6.5-6.75 Used",
-    "gebot": "2619.37",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/398286173588?_skw=Cartier+ring+gold&hash=item5cbbb4b594:g:ihUAAeSw5Tlqf4CN",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-14T21:14:42.247339+00:00"
-  },
-  {
-    "itemId": "v1|318462826757|0",
-    "objekt": "HRD Certified 0.24CT Baguette Natural Diamond Pear Engagement Ring 18K",
-    "gebot": "643.30",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/318462826757?_skw=diamant+ring+HRD&hash=item4a25dd1905:g:mwoAAOSwLslh5p7N",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "98.5",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-14T21:14:42.247339+00:00"
   }
 ]
