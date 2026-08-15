@@ -1,5 +1,41 @@
 [
   {
+    "itemId": "v1|287527370243|0",
+    "objekt": "Goldbarren 1 Gramm Heimerle & Meule Secain Card Gold 999.9 Feingold im Blister",
+    "gebot": "144.99",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/287527370243?_skw=goldbarren+999&hash=item42f1f77e03:g:yaYAAeSwFW1qfQey&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZm381bVYI14P%2FpschLkNplMNkyy0wY9iQ49Nx%2BVM7iZmJvmGOda3x9wueWVmve4gpbIE4CoRsKn0qMeoNJtdYUWxXQwP4KOtmlY0hQ4RX2K4kYpl1OZAKM8AZS9LVxEKMONFxGlPxcI6JGynElwOj7xwaYaPHG2puq3RPs3rUTd8%2FzZLXb%2Foyl9d9SvoGmOlfJNxpY6EqLVYNA6LuRF6GkE1sBIaELele0t1SSw4FfWQxqVLMSPdhgfIHoKX7EcTDzicTNBZmMWcCgyjNvI86aanz3BAvsYCGpMrcJRGQ0lQ%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-15T21:51:16.114201+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:144.99€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|398290043626|0",
+    "objekt": "Tiffany & Co. T True Narrow Ring K18 Rotgold US 5,5-5,75 gebraucht",
+    "gebot": "1722.51",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/398290043626?_skw=Tiffany+gold+ring&hash=item5cbbefc2ea:g:EdgAAeSw4U1qgNx2",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-15T21:51:16.114201+00:00"
+  },
+  {
+    "itemId": "v1|398290046404|0",
+    "objekt": "Cartier Les Must de Cartier Trinity XS Ring 18K YG PG WG US 6.25",
+    "gebot": "1498.81",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/398290046404?_skw=Cartier+ring+gold&hash=item5cbbefcdc4:g:Cr8AAeSw5ctqgN1E",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-15T21:51:16.114201+00:00"
+  },
+  {
     "itemId": "v1|398289983181|0",
     "objekt": "Tiffany & Co. T Draht Diamant Ring K18 Weißgold 0,13ct US 6,25-6,5",
     "gebot": "1722.51",
@@ -2213,38 +2249,5 @@
     "materialwert": 60.54,
     "bewertung": "Nicht kaufen:290.79€ über Materialwert 61€",
     "material": "0.5g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|226397549928|525588042980",
-    "objekt": "Münzbox für Wiener Philharmoniker Gold & Silbermünzen",
-    "gebot": "65.90",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/226397549928?_skw=wiener+philharmoniker+gold&hash=item34b6587568:g:bvEAAOSw0zVnC448",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.9",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-14T20:06:27.357897+00:00"
-  },
-  {
-    "itemId": "v1|227194542345|526394847648",
-    "objekt": "Coin Box For Wiener Philharmoniker Gold & Silver Coins",
-    "gebot": "58.30",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/227194542345?_skw=wiener+philharmoniker+gold&hash=item34e5d99909:g:bvEAAOSw0zVnC448",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.9",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-14T20:06:27.357897+00:00"
-  },
-  {
-    "itemId": "v1|257627260121|0",
-    "objekt": "Cartier Santos De Chain Bracelet Au750 Rose Gold 20.5cm 8.9g",
-    "gebot": "4337.27",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/257627260121?_skw=Cartier+armband&hash=item3bfbc804d9:g:C5MAAeSwfZRqWw7C",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.4",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-14T20:06:27.357897+00:00"
   }
 ]
