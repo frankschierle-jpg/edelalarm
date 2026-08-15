@@ -1,5 +1,41 @@
 [
   {
+    "itemId": "v1|128018089346|0",
+    "objekt": "PAMP Suisse 1 g Goldbarren Hermelin Feingold 999.9 SWITZERLAND Swiss Made!",
+    "gebot": "259.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/128018089346?_skw=goldbarren+999&hash=item1dce790582:g:~6EAAeSwkVdqeK~C",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-15T18:48:27.428426+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:259.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|177735664485|0",
+    "objekt": "Cartier Trinity Ring 750/18k Gold Gr. 47 ohne Box",
+    "gebot": "899.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/177735664485?_skw=Cartier+ring+gold&hash=item2961df0365:g:VkgAAeSwyOBpV-gc",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-15T18:48:27.428426+00:00"
+  },
+  {
+    "itemId": "v1|158191987227|0",
+    "objekt": "ART DECO 3.07ct OLD EURO DIAMOND PLATINUM COCKTAIL STATEMENT ENGAGEMENT RING GIA",
+    "gebot": "35176.32",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/158191987227?_skw=diamant+ring+GIA&hash=item24d4fa2a1b:g:2QUAAOSw5w1kc6R6",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-15T18:48:27.428426+00:00"
+  },
+  {
     "itemId": "v1|158191897893|0",
     "objekt": "Südafrika Krügerrand 1/4 Oz Gold  Anlagemünze 1982",
     "gebot": "1089.00",
@@ -2216,38 +2252,5 @@
     "haendlerbewertung": "100.0",
     "grund": "kein Zertifikat, aber Händler 100.0% aus DE",
     "gefundenAm": "2026-08-14T17:33:52.663768+00:00"
-  },
-  {
-    "itemId": "v1|198345764125|497424378967",
-    "objekt": "Münztube 1oz Gold Krügerrand Maple Eagle Britannia Double Eagle 29-35mm Cointube",
-    "gebot": "4.99",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/198345764125?_skw=krugerrand+gold&var=497424378967&hash=item2e2e542d1d:g:BQ4AAeSw3Utp~~TF&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYrnmeY6xlBrTKuqQyK2Ho4b4ReMNKEhPOfd%2FUsFd3sGOdfD6gmkB6xOXye4Y2xU%2BUjjopc%2Bph24rpztyCad3kUh%2FY6DjHH8zW%2BYcob5cSl2r1UNuDhAZwt0PAKpB%2BP5UoQ4XLTU%2BcjKdP%2FLBLI%2FgCiqEvklNXDp5bXp%2FH7vXueKt7lR6Df0EnIGMdnW9kJN%2F2RWMflv11OsZLnaX7nCzuO0XaMEV07p%2BWfaAXN0hQnyV2K34NRIBI%2Fpqv2WdusB7%2FTOBtt4xmoGnNQuZIBMwLzH21XMMSVvKvOcOaBte47iw%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.8",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-14T16:29:39.369537+00:00"
-  },
-  {
-    "itemId": "v1|366605583781|0",
-    "objekt": "Cartier Ring Trinity Gelbgold Weissgold Rosegold 750 15 Diamanten 2016 Gr 51",
-    "gebot": "3490.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/366605583781?_skw=Cartier+ring+gold&hash=item555b6545a5:g:TBoAAeSwL~Nqfzam",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-14T16:29:39.369537+00:00"
-  },
-  {
-    "itemId": "v1|358922488372|0",
-    "objekt": "Cartier Armreif Love SM Weissgold 750 Größe 17 6 Diamanten 2023 B6047717 Gold",
-    "gebot": "5790.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/358922488372?_skw=Cartier+armband&hash=item5391728a34:g:RJsAAeSwHgFqfZai",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-14T16:29:39.369537+00:00"
   }
 ]
