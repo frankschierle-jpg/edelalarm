@@ -1,5 +1,16 @@
 [
   {
+    "itemId": "v1|398290249242|0",
+    "objekt": "Tiffany & Co. Stacking Band 1PD Ring 18K Gelbgold Diamant US 8,25",
+    "gebot": "989.88",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/398290249242?_skw=Tiffany+gold+ring&hash=item5cbbf2e61a:g:sawAAeSw~wRqgPT4",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-15T23:35:37.632804+00:00"
+  },
+  {
     "itemId": "v1|398290200835|0",
     "objekt": "Tiffany & Co. T One Ring K18 Rosegold US 3,75 Japan 6",
     "gebot": "1249.01",
@@ -2232,19 +2243,5 @@
     "haendlerbewertung": "98.5",
     "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-14T21:14:42.247339+00:00"
-  },
-  {
-    "itemId": "v1|366605976225|0",
-    "objekt": "Goldbarren 5 Gramm Pamp Fortuna 999.9 Gold Barren im Blister Anlagegold 5g",
-    "gebot": "554.22",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/366605976225?_skw=goldbarren+999&hash=item555b6b42a1:g:BX4AAeSwqXxqf3dd",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-14T20:47:06.212783+00:00",
-    "materialwert": 605.39,
-    "bewertung": "Beobachten:554.22€ nahe Materialwert 605€, aber kein Puffer mehr",
-    "material": "5.0g Feingold 999.9"
   }
 ]
