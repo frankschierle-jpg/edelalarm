@@ -1,5 +1,19 @@
 [
   {
+    "itemId": "v1|377420138808|0",
+    "objekt": "Gold Armreif 750 Gold (18K) 20,37 Gramm brutto & 58 mm",
+    "gebot": "2300.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/377420138808?_skw=750+gold+armband+gramm&hash=item57dffe4938:g:qh8AAeSwCN1qgClA",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "98.2",
+    "grund": "Goldschmuck 20.37g (>= 10.0g)",
+    "gefundenAm": "2026-08-16T09:16:08.376201+00:00",
+    "materialwert": 1851.63,
+    "bewertung": "Nicht kaufen:2300.0€ über Materialwert 1852€",
+    "material": "20.37g 18kt Gold (kein Edelstein)"
+  },
+  {
     "itemId": "v1|176265329387|0",
     "objekt": "Ring 950 Platin 7 Brillant Diamant 0,18ct TW-G/IF-SI Gr. 54 2,3g - Wert 2.500€",
     "gebot": "1195.00",
@@ -2223,16 +2237,5 @@
     "haendlerbewertung": "98.3",
     "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-15T04:50:15.553157+00:00"
-  },
-  {
-    "itemId": "v1|398287328342|0",
-    "objekt": "Cartier Etincelle Diamond Ring 18K White Gold 0.47ct US 4.25",
-    "gebot": "2552.01",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/398287328342?_skw=Cartier+ring+gold&hash=item5cbbc65456:g:K5wAAeSw4U1qf-Ok",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-15T04:18:59.148074+00:00"
   }
 ]
