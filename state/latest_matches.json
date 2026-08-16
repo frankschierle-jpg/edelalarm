@@ -1,5 +1,93 @@
 [
   {
+    "itemId": "v1|158188731829|0",
+    "objekt": "Tiffany & Co. Paloma Picasso 18K Gelbgold Graffiti Love Ring Artikel #1A",
+    "gebot": "617.10",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/158188731829?_skw=Tiffany+gold+ring&hash=item24d4c87db5:g:YNAAAeSwg5hqf2OV",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-16T15:36:13.512688+00:00"
+  },
+  {
+    "itemId": "v1|336745540347|0",
+    "objekt": "CARTIER Santos Demoiselle SM Genuine Bracelet Link 12mm Stainless Steel",
+    "gebot": "135.20",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/336745540347?_skw=Cartier+armband&hash=item4e67992afb:g:zLMAAeSwsJVqgdbo",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "98.8",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-16T15:36:13.512688+00:00"
+  },
+  {
+    "itemId": "v1|336745540353|0",
+    "objekt": "CARTIER Tank Anglaise SM Genuine Bracelet Link 14mm Stainless Steel",
+    "gebot": "131.18",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/336745540353?_skw=Cartier+armband&hash=item4e67992b01:g:kh4AAeSwZy5qgdea",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "98.8",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-16T15:36:13.512688+00:00"
+  },
+  {
+    "itemId": "v1|336745540348|0",
+    "objekt": "CARTIER Tank Francaise SM Genuine Bracelet Links 14.5mm 2pcs Stainless Steel",
+    "gebot": "175.26",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/336745540348?_skw=Cartier+armband&hash=item4e67992afc:g:tbwAAeSw6fRqgdeY",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "98.8",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-16T15:36:13.512688+00:00"
+  },
+  {
+    "itemId": "v1|336745540351|0",
+    "objekt": "CARTIER Santos Demoiselle SM Genuine Bracelet Links 12mm 2pcs Stainless Steel",
+    "gebot": "223.67",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/336745540351?_skw=Cartier+armband&hash=item4e67992aff:g:NjsAAeSwSKxqgdaq",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "98.8",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-16T15:36:13.512688+00:00"
+  },
+  {
+    "itemId": "v1|206495653117|0",
+    "objekt": "Engagement Ring Radiant Cut 1 Carat IGI GIA Lab Grown Diamond 18k White Gold",
+    "gebot": "902.82",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/206495653117?_skw=diamant+ring+GIA&hash=item3014199cfd:g:t1gAAeSwPTdqgdd-",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-16T15:36:13.512688+00:00"
+  },
+  {
+    "itemId": "v1|198575330638|0",
+    "objekt": "18 K Weißgold Ovalschliff 1,75 Kt IGI Lab Grown Diamant Verlobungsring E F VVS2",
+    "gebot": "1782.97",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/198575330638?_skw=diamant+ring+IGI&hash=item2e3c03154e:g:eyEAAeSwW4tqgddr",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-16T15:36:13.512688+00:00"
+  },
+  {
+    "itemId": "v1|198575330562|0",
+    "objekt": "Verlobungsring 3 Kt IGI Lab Grown Rundschliff CVD-Diamant 18 K Weißgold E F VVS",
+    "gebot": "1669.46",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/198575330562?_skw=diamant+ring+IGI&hash=item2e3c031502:g:upUAAeSwNtZqgdcj",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-16T15:36:13.512688+00:00"
+  },
+  {
     "itemId": "v1|146707033374|0",
     "objekt": "Diamant Ring Ehering Gold Lab Grown 18k Gelb Rundschliff IGI 2,30 Karat",
     "gebot": "1507.56",
@@ -2152,93 +2240,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-15T11:10:34.971338+00:00"
-  },
-  {
-    "itemId": "v1|267490939395|0",
-    "objekt": "Diamant Verlobungsring Smaragdschliff Lab Grown IGI Platin 4,50 Karat",
-    "gebot": "2090.66",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/267490939395?_skw=diamant+ring+IGI&hash=item3e47b3d203:g:4fEAAOSwqcRn86x8",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-15T11:10:34.971338+00:00"
-  },
-  {
-    "itemId": "v1|358380345969|0",
-    "objekt": "18 K Gelbgold IGI Lab Created Diamant Verlobungsring 2,50 Karat Marquise-Schliff",
-    "gebot": "1479.12",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/358380345969?_skw=diamant+ring+IGI&hash=item5371221a71:g:RTgAAeSwFVNpxi-V",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-15T11:10:34.971338+00:00"
-  },
-  {
-    "itemId": "v1|267688522243|0",
-    "objekt": "Diamant Ring Lab Grown Designer Platin Birne E F VVS IGI PT950 6,8 Karat",
-    "gebot": "2757.44",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/267688522243?_skw=diamant+ring+IGI&hash=item3e537ab203:g:6MIAAeSwHt1qR5K7",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-15T11:10:34.971338+00:00"
-  },
-  {
-    "itemId": "v1|205786862425|0",
-    "objekt": "CARTIER LEDER ARMBAND FALTSCHLIESSE 18K 750 MASSIV WEISSGOLD 15 GRAMM 18MM",
-    "gebot": "2299.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/205786862425?_skw=750+gold+armband+gramm&hash=item2fe9da5359:g:eJoAAOSwKGRh00c7&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbyLXTpszFP7AOALYNLgouqji0qkGq5JmcNirMDMAy6JpFtaxc78rugAK7O1Ci7zHiw5wbV4LIuE2qHBXLMeYkWnqaGqYo5gViKiwfYFZ5rgv5LLrnbD6zuNJJyajOMjsPiQ%2BYZAn8q3BW8Jc6IjZ8D7dki4TvyvNkKkIGoQO8mBMoCiLzMvz2znZOTdjBcXZTXo%2FsYSB3CoX4%2BLbAHOo6ibfdlfxQ%2BMAMf881Td7ja9an%2BiS8eKfWfbTkc2lun5rGxIoDuwzSlNsRvDik0T3%2BFPQva55ZU%2B7n9bYYSV%2FkqSQ%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.6",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-15T10:56:26.287296+00:00"
-  },
-  {
-    "itemId": "v1|128027790784|0",
-    "objekt": "IGI Lab gewachsener Diamant-Verlobungsring Solitär 3,00 kt Rundschliff 18 K...",
-    "gebot": "2064.02",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128027790784?_skw=diamant+ring+IGI&hash=item1dcf0d0dc0:i:128027790784",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-15T10:56:26.287296+00:00"
-  },
-  {
-    "itemId": "v1|128027786682|0",
-    "objekt": "950 Platin IGI-zertifiziert im Labor gezüchteter Diamant Verlobungsring...",
-    "gebot": "2127.26",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128027786682?_skw=diamant+ring+IGI&hash=item1dcf0cfdba:g:5LcAAeSwfoNqgEJv",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-15T10:56:26.287296+00:00"
-  },
-  {
-    "itemId": "v1|128027797358|0",
-    "objekt": "950 Platin Fancy Vivid Blue IGI Lab Grown Diamant Damenring Ovalschliff 2,75 ct",
-    "gebot": "2866.76",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128027797358?_skw=diamant+ring+IGI&hash=item1dcf0d276e:i:128027797358",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-15T10:56:26.287296+00:00"
-  },
-  {
-    "itemId": "v1|366607107755|636282269696",
-    "objekt": "16mm Solid Stainless Steel Watch Bracelet Strap Fits Cartier/Tank Panthere Ronde",
-    "gebot": "146.40",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/366607107755?_skw=Cartier+armband&hash=item555b7c86ab:g:ynQAAeSwMjhqgEHF",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-15T10:56:26.287296+00:00"
   }
 ]
