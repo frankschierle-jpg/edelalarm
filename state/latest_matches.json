@@ -1,5 +1,41 @@
 [
   {
+    "itemId": "v1|800517544768|0",
+    "objekt": "Goldbarren 1g Hereaus Feingold 999 Sparkasse Meißen 190 Jahre",
+    "gebot": "135.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/800517544768?_skw=goldbarren+999&hash=itemba62905b40:g:xUsAAeSwFN5qfuR8",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-16T11:51:35.388383+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:135.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|117362512918|0",
+    "objekt": "Österreich 200 Schilling Wiener Philharmoniker 1/10 Unze Feingold 9999",
+    "gebot": "700.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/117362512918?_skw=wiener+philharmoniker+gold&hash=item1b5359d416:g:k0IAAeSw1~lqgZ56",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-16T11:51:35.388383+00:00"
+  },
+  {
+    "itemId": "v1|318630050315|0",
+    "objekt": "18MM WATCH BAND BRACELET FOR PASHA DE CARTIER W31074M7 REF:2475 2324 2550 2412",
+    "gebot": "78.38",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/318630050315?_skw=Cartier+armband&hash=item4a2fd4ba0b:g:LUsAAeSwYrtqY3fH",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.9",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-16T11:51:35.388383+00:00"
+  },
+  {
     "itemId": "v1|206495221498|0",
     "objekt": "Krügerrand 1/10 oz Goldmünze, 1982",
     "gebot": "415.00",
@@ -2210,38 +2246,5 @@
     "haendlerbewertung": "99.7",
     "grund": "Markenschmuck (Van Cleef)",
     "gefundenAm": "2026-08-15T08:13:47.343459+00:00"
-  },
-  {
-    "itemId": "v1|227476757938|0",
-    "objekt": "Van Cleef & Arpels Perleless Small Ring Pink Gold Au750 US Size #5.5 1.9g",
-    "gebot": "1456.74",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/227476757938?_skw=Van+Cleef+Arpels+ring&hash=item34f6abddb2:g:dQgAAeSwvnpqgB37",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.7",
-    "grund": "Markenschmuck (Van Cleef)",
-    "gefundenAm": "2026-08-15T08:13:47.343459+00:00"
-  },
-  {
-    "itemId": "v1|227476759269|0",
-    "objekt": "Van Cleef & Arpels Perlesinian Tulle Ring Gold Au750 Jewelry US Size #4 7.4g",
-    "gebot": "2728.95",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/227476759269?_skw=Van+Cleef+Arpels+ring&hash=item34f6abe2e5:g:T9MAAeSw5glqgB5J",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.7",
-    "grund": "Markenschmuck (Van Cleef)",
-    "gefundenAm": "2026-08-15T08:13:47.343459+00:00"
-  },
-  {
-    "itemId": "v1|327240091140|0",
-    "objekt": "CARTIER 1895 SOLITAIRE RING 0,30ct. BRILLANT SOLITÄR DIAMANT Pt.950 PLATIN Gr.53",
-    "gebot": "2195.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/327240091140?_skw=platin+diamant+ring&hash=item4c31078604:g:QxwAAeSw6sVqQ~Qc",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-15T07:55:52.394965+00:00"
   }
 ]
