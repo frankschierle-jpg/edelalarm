@@ -1,5 +1,30 @@
 [
   {
+    "itemId": "v1|327312694820|0",
+    "objekt": "The Royal Mint Britannia Goldbarren 1g 999,9 Feingold (gekrempelt)",
+    "gebot": "139.24",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/327312694820?_skw=gold+bar+999.9&hash=item4c355b5e24:g:fYoAAeSwGbJqgWv~",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-16T08:14:54.098110+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:139.24€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|398291455657|0",
+    "objekt": "Tiffany & Co. T Wiurence Graff Signature Diamant Ring 18K Weißgold US 5,25-5,5",
+    "gebot": "1618.86",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/398291455657?_skw=Tiffany+gold+ring&hash=item5cbc054ea9:g:3dgAAeSwYEVqgWvL",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-16T08:14:54.098110+00:00"
+  },
+  {
     "itemId": "v1|398291377319|0",
     "objekt": "Cartier Trinity Ring 18K Gelb Weiß Rotgold 750 US 5,5-5,75 JP 11 gebraucht",
     "gebot": "1349.68",
@@ -2209,27 +2234,5 @@
     "haendlerbewertung": "99.5",
     "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-15T04:18:59.148074+00:00"
-  },
-  {
-    "itemId": "v1|318663853439|0",
-    "objekt": "Tiffany Harmony Diamant Ring Rotgold (18K), Platin Fashion Diam... BF596389",
-    "gebot": "600.10",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/318663853439?_skw=Tiffany+gold+ring&hash=item4a31d8857f:g:UboAAeSwjF1qbfc9",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.0",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-15T03:55:16.707596+00:00"
-  },
-  {
-    "itemId": "v1|398287251619|0",
-    "objekt": "Tiffany & Co. Notes schmaler New York Ring K18YG 18K Gelbgold US 3,75-4",
-    "gebot": "693.51",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/398287251619?_skw=Tiffany+gold+ring&hash=item5cbbc528a3:g:8-0AAeSw6z1qf91-",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-15T03:55:16.707596+00:00"
   }
 ]
