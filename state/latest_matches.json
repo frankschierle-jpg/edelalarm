@@ -1,5 +1,33 @@
 [
   {
+    "itemId": "v1|307131817274|0",
+    "objekt": "Goldbarren - Goldbarren Barren : 1 Gramm reines Gold 999,9 24k : PAMP VERISCAN",
+    "gebot": "165.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/307131817274?_skw=gold+bar+999.9&hash=item47827b9d3a:g:KBYAAeSwjU9qgzT7",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.3",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-17T16:46:39.242673+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:165.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|307131805650|0",
+    "objekt": "Goldbarren - Goldbarren Barren : 1 Gramm reines Gold 999,9 24k : Valcambi - Suisse",
+    "gebot": "164.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/307131805650?_skw=gold+bar+999.9&hash=item47827b6fd2:g:5ToAAeSwUXpqgzLd",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.3",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-17T16:46:39.242673+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:164.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
     "itemId": "v1|398296454649|0",
     "objekt": "PAMP Suisse Goldbarren 1 Gr., 999.9",
     "gebot": "249.00",
@@ -2236,27 +2264,5 @@
     "materialwert": 121.08,
     "bewertung": "Nicht kaufen:131.05€ über Materialwert 121€",
     "material": "1.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|206495095973|0",
-    "objekt": "Krügerrand Goldmünze 1/50 oz Proof 2024",
-    "gebot": "125.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/206495095973?_skw=krugerrand+gold&hash=item3014111ca5:g:pz0AAeSw3bJqgYbx",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-16T10:11:40.839701+00:00"
-  },
-  {
-    "itemId": "v1|188800933316|0",
-    "objekt": "Österreich Wiener Philharmoniker 10 Euro  1/10 oz Gold 2005",
-    "gebot": "445.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/188800933316?_skw=wiener+philharmoniker+gold&hash=item2bf5699dc4:g:sJMAAeSwFO1p-Jsb",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.1",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-16T10:11:40.839701+00:00"
   }
 ]
