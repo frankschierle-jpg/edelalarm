@@ -1,5 +1,63 @@
 [
   {
+    "itemId": "v1|168562730859|0",
+    "objekt": "umicore Goldbarren 2,5 Gramm 999.9 Gold  geprägt Bar Nummer A131484 Zertifiziert",
+    "gebot": "486.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168562730859?_skw=gold+bar+999.9&hash=item273f1f276b:g:b~AAAeSwVftpoGXH&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaJjAQQ%2BZ52ywlkD99WTE3DKHRE9o3rLdPMUzRbMKZj8zrQbcHWbGL%2Fbl%2BRqQXTR9AHnS53HGBfTZ%2Fj%2FfzE15TBerZQRVemCv%2B5INpv4aq2RDY4UZBMrT0ObkMCWZkA3lK1TF0iMdt2mlRlZnvtl7UQMdXoOc%2FuqnW95Qua3jO6StMsjKvMrYVgaPm6bf%2BQnAJLNYITP5Dt8gL8Jp2uKFolN%2BQocjazPbX4gthvgNb46ur%2By8vnQxjo%2F4W0JHnztVfEZxkcw%2By4VESSTZfl5Shp7HL3lPq8MJJmgQ50gQrGTw%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-17T13:09:39.665529+00:00",
+    "materialwert": 302.7,
+    "bewertung": "Nicht kaufen:486.0€ über Materialwert 303€",
+    "material": "2.5g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|398295895079|0",
+    "objekt": "Tiffany & Co. Echter schmaler Diamant Ring K18 Gelbgold US 5,5-5,75 gebraucht",
+    "gebot": "3663.13",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/398295895079?_skw=Tiffany+gold+ring&hash=item5cbc490c27:g:u~MAAeSwF-ZqgwJx",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-17T13:09:39.665529+00:00"
+  },
+  {
+    "itemId": "v1|398295874407|0",
+    "objekt": "Tiffany & Co. Milgrain Ring K18 Gelbgold Pt950 Platin US 4,5 gebraucht",
+    "gebot": "1861.94",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/398295874407?_skw=Tiffany+gold+ring&hash=item5cbc48bb67:g:n6YAAeSwGFpqgwBK",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-17T13:09:39.665529+00:00"
+  },
+  {
+    "itemId": "v1|366608788215|636283304347",
+    "objekt": "12mm 15mm SS Watch Bracelet For Cartier Panthere Small WSPN0006 Medium WSPN0007",
+    "gebot": "190.14",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/366608788215?_skw=Cartier+armband&hash=item555b962af7:g:PuQAAeSwIVVqgXqt&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZUCzgprIfyqjNIvY5H7MhvyYSycxF3Eg%2FqTBcZD9P20b%2BjaAbZ6pozSbTDdA3l6dS3UZDOWaX8eUPQNW2crDji3zaqwXsIlk80AdUFG6xA3m73G8T2EcJffiMvRk1qfDodl9q2%2FS6X64Id9id6MtOO%2BVBKgfhqRLo0SPQ9DjwvNBgaPUlQpltZ9%2B9Os01%2FWFanF8aVLZPx3UQabOEY7cO0sHlwqbHy5T3WMqZx26NQDZf%2B5uVsAKyNPFVSpji%2FtZZz7jTidyf25aCVutBpIXsjb1bspg1QYfe9Ex3ywq%2BWUA%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-17T13:09:39.665529+00:00"
+  },
+  {
+    "itemId": "v1|398295790163|0",
+    "objekt": "Tiffany & Co. Dots Diamond Ring K18 Yellow Gold Pt950 Platinum US 5.25",
+    "gebot": "1861.94",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/398295790163?_skw=Tiffany+gold+ring&hash=item5cbc477253:g:XLUAAeSw6o5qgvry",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-17T13:09:39.665529+00:00"
+  },
+  {
     "itemId": "v1|147510663765|0",
     "objekt": "Cartier Solitaire Ring 1895 Roségold Gr. 52 0,53 CT GIA Diamant VVS1 Brillant E",
     "gebot": "3990.00",
@@ -2191,60 +2249,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Markenschmuck (Tiffany)",
     "gefundenAm": "2026-08-16T05:03:49.673829+00:00"
-  },
-  {
-    "itemId": "v1|398291069568|0",
-    "objekt": "Tiffany & Co. Loving Triple Heart Ring 18K Gelbgold US 7-7,25",
-    "gebot": "991.25",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/398291069568?_skw=Tiffany+gold+ring&hash=item5cbbff6a80:g:gNEAAeSwyJFqgUKD",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-16T05:03:49.673829+00:00"
-  },
-  {
-    "itemId": "v1|306912010809|0",
-    "objekt": "Van Cleef & Arpels grüner Chalzedon Diamant 18k YG Papillon Band Schleife Ring US7",
-    "gebot": "2700.08",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/306912010809?_skw=Van+Cleef+Arpels+ring&hash=item477561a239:g:6ZcAAeSwEdFp9IeF",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.0",
-    "grund": "Markenschmuck (Van Cleef)",
-    "gefundenAm": "2026-08-16T05:03:49.673829+00:00"
-  },
-  {
-    "itemId": "v1|398291067068|0",
-    "objekt": "Cartier 2C SM Ring 18K Three Tone Gold US 6",
-    "gebot": "1211.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/398291067068?_skw=Cartier+ring+gold&hash=item5cbbff60bc:g:RLgAAeSwbEhqgUHq",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-16T05:03:49.673829+00:00"
-  },
-  {
-    "itemId": "v1|398245051525|0",
-    "objekt": "Cartier Happy Birthday 18k Yellow Gold Band Ring EU 53 US 6.5",
-    "gebot": "1043.22",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/398245051525?_skw=Cartier+ring+gold&hash=item5cb9413c85:g:IWsAAeSwn2JqcJYj&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGalzuldE4iNEBA2vaR62lQ4c%2BGNF53V6dtv9M%2BRQBY8EpVy5uSxMmzC8x9g5s%2FVzIr7TO%2FE0H2NvYW7FOjDnhCWneiEvGE%2F%2BAdNrtEC%2BuaBbV2u%2FiEHLSI00V6%2B3AHYh5rEBTL03xFHZBSodczrBP6M4xYVI3hIayTqNlpzjWazn35bgS2NEEfWQyLe2qbvfMj7g5MIJEwzvYWsmIelu7Anp9WkqAxzf1Ko3zOqyuZO5gPDczFrpI8WfTVZpwdgNZrD7J4y%2BY9QDgNmtxh7BsTNpZAMzk2J7K%2BxmPM7WoV01g%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.7",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-16T05:03:49.673829+00:00"
-  },
-  {
-    "itemId": "v1|206494575058|0",
-    "objekt": "1/4 Oz Krügerrand Goldmünze 2022",
-    "gebot": "999.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/206494575058?_skw=krugerrand+gold&hash=item30140929d2:g:KFQAAeSwjgRqfXR9",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-16T04:36:05.476637+00:00"
   }
 ]
