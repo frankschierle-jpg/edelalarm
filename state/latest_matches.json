@@ -1,5 +1,30 @@
 [
   {
+    "itemId": "v1|327314559605|0",
+    "objekt": "The Royal Mint Britannia Goldbarren 1g 999,9 Feingold (gekrempelt)",
+    "gebot": "141.58",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/327314559605?_skw=gold+bar+999.9&hash=item4c3577d275:g:ljAAAeSwG9FqgqQB",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-17T17:16:38.019830+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:141.58€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|327314928457|0",
+    "objekt": "Cartier Santos Steel / Gold bracelet parts",
+    "gebot": "371.95",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/327314928457?_skw=Cartier+armband&hash=item4c357d7349:g:jxQAAeSwR8Jqgz8S",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.7",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-17T17:16:38.019830+00:00"
+  },
+  {
     "itemId": "v1|307131817274|0",
     "objekt": "Goldbarren - Goldbarren Barren : 1 Gramm reines Gold 999,9 24k : PAMP VERISCAN",
     "gebot": "165.00",
@@ -2235,34 +2260,6 @@
     "gefundenAm": "2026-08-16T10:11:40.839701+00:00",
     "materialwert": 121.08,
     "bewertung": "Nicht kaufen:155.0€ über Materialwert 121€",
-    "material": "1.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|366608864886|0",
-    "objekt": "Heraeus Goldbarren 1g Feingold 999.9 mit Zertifikat Im Blister",
-    "gebot": "145.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/366608864886?_skw=goldbarren+999&hash=item555b975676:g:Y3oAAeSwfn9qgYWT&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbs460HBhmuKSQpMa2TVeRuf1OhRPC6kQRUKUCp9UOgxuKawKZXX1%2FlN%2B3AzkvBBUcfdkiFWI9eRE8SrDsXuuHisZVxxGl8XCVsLbBM%2F6%2BMCP%2BZQ9L2HS4mgViEDKI0948Q2Su7Zi8Ck1Zfw7dSxcXoFhp%2B2kFIujYQlts9ZQjJArplk7WbnKVFo67OADei0f1s1fCj7IJnqH3FKie42mcTzWwL9eHEFdbOSqfZSDQol8Rqz48G3DqKtIoY4rErrRRTZmmOZVl9ZdEoJu8eYtL7d9zg8PrHq0jMS5vLzP0YXw%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-16T10:11:40.839701+00:00",
-    "materialwert": 121.08,
-    "bewertung": "Nicht kaufen:145.0€ über Materialwert 121€",
-    "material": "1.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|168617629577|0",
-    "objekt": "1 Gramm Goldbarren 999,9 Fein in Testkarte - Tavex ",
-    "gebot": "131.05",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/168617629577?_skw=gold+bar+999.9&hash=item274264d789:g:boQAAeSwqylqgYdu",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-16T10:11:40.839701+00:00",
-    "materialwert": 121.08,
-    "bewertung": "Nicht kaufen:131.05€ über Materialwert 121€",
     "material": "1.0g Feingold 999.9"
   }
 ]
