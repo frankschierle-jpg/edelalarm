@@ -1,5 +1,38 @@
 [
   {
+    "itemId": "v1|327316268308|0",
+    "objekt": "Krügerrand 1974 1 oz Goldmünze Feingehalt 0,9167 nicht zertifiziert",
+    "gebot": "3000.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/327316268308?_skw=krugerrand+gold&hash=item4c3591e514:g:AaQAAeSwW8NqhHPK",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-18T15:47:26.332026+00:00"
+  },
+  {
+    "itemId": "v1|198579861030|0",
+    "objekt": "Cartier Santos Galbée Ref. 1565 'Cream' 24x35mm",
+    "gebot": "3290.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/198579861030?_skw=Cartier+armband&hash=item2e3c483626:g:7eoAAeSwiIVqhHS0",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-18T15:47:26.332026+00:00"
+  },
+  {
+    "itemId": "v1|407153781345|0",
+    "objekt": "Hochzeit Radiant Cut IGI 18k Gelb E F VVS 1 Karat Diamant Ring Gold Lab Grown",
+    "gebot": "1819.20",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/407153781345?_skw=diamant+ring+IGI&hash=item5ecc41aa61:g:Tr8AAeSwl01qhH1a",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-18T15:47:26.332026+00:00"
+  },
+  {
     "itemId": "v1|257688470269|0",
     "objekt": "1 G Goldbarren 999.9 Gold",
     "gebot": "130.00",
@@ -2210,44 +2243,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-17T19:02:41.835516+00:00"
-  },
-  {
-    "itemId": "v1|287530989594|0",
-    "objekt": "Cartier Armband Just One Nagel Gr. 15",
-    "gebot": "3500.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/287530989594?_skw=Cartier+armband&hash=item42f22eb81a:g:02kAAeSwGFpqgy2C&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYYrouu6IEPaoK37DhoSQO6WU9FbAqKxrGeU1V2yxUgEUF%2BNDhV%2BFRGcK%2BDdebx6ClT8NCtXsvowNw6aKWk7Nxhg6NG%2Fx1ph%2BlOTeRp%2FRXyR9gK%2Buk2JckBI5lwwjroVOQe0qHpvAJVvjCyRaCYe8aUGnDn1bz389Y2i0FiqqJdBajGnfeD9QtZvHPlR4PJfsWYFKBS6fCR4UnVlkRpuylbwy%2BlpeocM2i77qoL2MEUQdusRM9zs1BYDR7%2BE9e4lRXkloih9ax9h8zP9zKjtMgKUbZ%2BAGiRdOMdqEBQhVPkPg%3D%3D",
-    "haendlertyp": "",
-    "haendlerbewertung": "0.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-17T18:20:33.276707+00:00"
-  },
-  {
-    "itemId": "v1|398296408604|0",
-    "objekt": "PAMP Suisse Goldbarren 1 Gr.",
-    "gebot": "299.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/398296408604?_skw=goldbarren+999&hash=item5cbc50e21c:g:y1UAAeSwI3ZqBh6I",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-17T17:47:09.158354+00:00",
-    "materialwert": 121.08,
-    "bewertung": "Nicht kaufen:299.0€ über Materialwert 121€",
-    "material": "1.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|398296442327|0",
-    "objekt": "PAMP Suisse Goldbarren 1 Gr.",
-    "gebot": "349.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/398296442327?_skw=goldbarren+999&hash=item5cbc5165d7:g:YhcAAeSwAxtqBfs6",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-17T17:47:09.158354+00:00",
-    "materialwert": 121.08,
-    "bewertung": "Nicht kaufen:349.0€ über Materialwert 121€",
-    "material": "1.0g Feingold 999.9"
   }
 ]
