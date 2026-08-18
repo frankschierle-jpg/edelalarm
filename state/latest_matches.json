@@ -1,5 +1,110 @@
 [
   {
+    "itemId": "v1|158201495169|0",
+    "objekt": "1g goldbarren heraeus",
+    "gebot": "145.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/158201495169?_skw=goldbarren+999&hash=item24d58b3e81:g:ZNsAAeSwS3BqhChC",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-18T10:01:37.398515+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:145.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|287532097239|0",
+    "objekt": "5 g Goldbarren 999,9 – Feingold – VALCAMBI",
+    "gebot": "580.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/287532097239?_skw=goldbarren+999&hash=item42f23f9ed7:g:XlwAAeSwpN5qhBZ6",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "97.1",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-18T10:01:37.398515+00:00",
+    "materialwert": 605.39,
+    "bewertung": "Beobachten:580.0€ nahe Materialwert 605€, aber kein Puffer mehr",
+    "material": "5.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|318747978540|0",
+    "objekt": "Krügerrand 1/10 oz Goldmünze 2021",
+    "gebot": "450.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/318747978540?_skw=krugerrand+gold&hash=item4a36dc2b2c:g:dOsAAeSwGEZqhCif",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-18T10:01:37.398515+00:00"
+  },
+  {
+    "itemId": "v1|188810910048|0",
+    "objekt": "Cartier Ring Love klassisches Modell Weissgold 750 3 Diamanten Größe 59 Gold",
+    "gebot": "2390.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/188810910048?_skw=Cartier+ring+gold&hash=item2bf601d960:g:UawAAeSwaclqhCjB",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-18T10:01:37.398515+00:00"
+  },
+  {
+    "itemId": "v1|366613129295|0",
+    "objekt": "Cartier Ring Love Klassisches Modell Weissgold 750 6 Diamanten Größe 52 Gold",
+    "gebot": "3690.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/366613129295?_skw=Cartier+ring+gold&hash=item555bd8684f:g:FdcAAeSw0HxqhCY5",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-18T10:01:37.398515+00:00"
+  },
+  {
+    "itemId": "v1|366613099834|0",
+    "objekt": "Cartier Ring Love Klassisches Modell Gelbgold 750 6 Diamanten Größe 49 Gold",
+    "gebot": "3390.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/366613099834?_skw=Cartier+ring+gold&hash=item555bd7f53a:g:JvwAAeSwD~1qhCT~",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-18T10:01:37.398515+00:00"
+  },
+  {
+    "itemId": "v1|188810909409|0",
+    "objekt": "Cartier Santos Dumont Large Garantie-2033 inkl. 2 original Bänder Top Zustand",
+    "gebot": "4900.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/188810909409?_skw=Cartier+armband&hash=item2bf601d6e1:g:O~kAAeSw61RqhCWj",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-18T10:01:37.398515+00:00"
+  },
+  {
+    "itemId": "v1|168362210522|0",
+    "objekt": "3,00 ct Birnenschliff & Bageutte 950 Platin Diamant Verlobungsring IGI Lab Cr...",
+    "gebot": "2147.67",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/168362210522?_skw=diamant+ring+IGI&hash=item27332b74da:g:aMQAAeSwLFVp~edj",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-18T10:01:37.398515+00:00"
+  },
+  {
+    "itemId": "v1|168404281050|0",
+    "objekt": "Schöner Diamant Geschenk Ring IGI Lab Created 6,60 ct Radiant Cut 18 K Gelbgold",
+    "gebot": "3370.47",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/168404281050?_skw=diamant+ring+IGI&hash=item2735ad66da:g:RgsAAeSw69Jp2NhK",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-18T10:01:37.398515+00:00"
+  },
+  {
     "itemId": "v1|297931366503|0",
     "objekt": "Südafrika Krügerrand 2026 1/4 Oz Gold ST / BU Anlagemünze",
     "gebot": "1065.00",
@@ -2165,107 +2270,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-17T09:58:28.063751+00:00"
-  },
-  {
-    "itemId": "v1|128030905895|0",
-    "objekt": "18 K Weißgold IGI Lab Grown Diamant Verlobungsring Band Set 5,00 ct Rundschliff",
-    "gebot": "3367.65",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128030905895?_skw=diamant+ring+IGI&hash=item1dcf3c9627:g:SicAAeSwxB9qgtaN",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-17T09:58:28.063751+00:00"
-  },
-  {
-    "itemId": "v1|237011494828|0",
-    "objekt": "Ring mit Brillant in aus 950 er Platin Diamant Grösse 55 Gold Ringe top!",
-    "gebot": "3490.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/237011494828?_skw=platin+diamant+ring&hash=item372efc67ac:g:kJ8AAeSwSHBqgtdx",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.6",
-    "grund": "kein Zertifikat, aber Händler 99.6% aus DE",
-    "gefundenAm": "2026-08-17T09:58:28.063751+00:00"
-  },
-  {
-    "itemId": "v1|236372998053|0",
-    "objekt": "Cartier White 18ct Gold Ring",
-    "gebot": "1296.46",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/236372998053?_skw=Cartier+ring+gold&hash=item3708edb7a5:g:LCIAAeSwgfNo5G84&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaEyNMoi09d413tSNEwrzUvWrXKnlcgLCqMWNU%2FT9VAnhxZQ1atUQevGVJFgBfuXsR8PZ4%2BYjI0FxIDARptEx7ub23ooFS3PdUO%2Fcaz2iNRV7KdY%2F1Nija32NdTeGcG7USb4hanvLcOs7BQMR51aofqygiarjy0ciii8xh59YIghXj5jLdJYW2%2Fvw81gWZ%2BwgEUlOPjDrFDy44XAIHk7PEnneq51zKZ%2FBP%2BZcemEOPY4rI27pKyQsNUmfJKxhmmkZYclr5UPhXkyaDTc8NrjPBlk3oGj7UExoYv1fgaGbX5pw%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-17T09:58:28.063751+00:00"
-  },
-  {
-    "itemId": "v1|188805599307|0",
-    "objekt": "GOLDBARREN 5 Stück 0,01 Gramm NZP Gold 999,9 Gold Barren 0,01g Feingold Barren",
-    "gebot": "64.99",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/188805599307?_skw=goldbarren+999&hash=item2bf5b0d04b:g:jpgAAeSwx71qbmfw",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.2",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-17T09:02:09.615166+00:00",
-    "materialwert": 1.21,
-    "bewertung": "Nicht kaufen:64.99€ über Materialwert 1€",
-    "material": "0.01g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|158197458670|0",
-    "objekt": "1 oz Krügerrand (Goldunze Nachbildung)",
-    "gebot": "12.95",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/158197458670?_skw=krugerrand+gold&hash=item24d54da6ee:g:qZEAAeSwAVhqfZPZ&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZgsh%2BSiz%2FvBr63uqiRH7ZqiAT2s5OhT%2BKJa6%2FXGG%2F6xX5yzo233ZA2muJMQhPhiUTqugDPjAsykBo6pvVhBBB9p1THY8D5XlHydQo%2BYp7Inty7gZRp24O80JNlWkF6IOLqlwOtkOhKGyE7wzsMhDVi%2F4s2Mdie%2BQTt4uzajZvUy6rGx6ONdALFuZclY3J0OkLuVMVGyjBD%2B%2BcFVuT1dwyGCNvhcVomCbSthpsV23im%2B0JhspRnEjND1fe07KcSYmGv0ccETDQzvC6nAhapcSJhNOhawRNhzEJag1kVUb5Xsg%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-17T09:02:09.615166+00:00"
-  },
-  {
-    "itemId": "v1|198348160925|497425984083",
-    "objekt": "Münztube 1oz Silbermünze Philharmoniker Maple Leaf Silver Eagle 36 - 43 mm Gold",
-    "gebot": "6.99",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/198348160925?_skw=maple+leaf+gold+coin&var=497425984083&hash=item2e2e78bf9d:g:VyUAAeSw7T5p~~TW",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.8",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-17T09:02:09.615166+00:00"
-  },
-  {
-    "itemId": "v1|128030815304|0",
-    "objekt": "18 K Weißgold IGI Lab Grown Diamant Verlobungsring Band Set 2,70 ct Rundschliff",
-    "gebot": "2403.31",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128030815304?_skw=diamant+ring+IGI&hash=item1dcf3b3448:g:sqcAAeSwrj5qgsFY",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-17T09:02:09.615166+00:00"
-  },
-  {
-    "itemId": "v1|128030815263|0",
-    "objekt": "Rundschliff 2,60 kt IGI Lab Grown Diamant Verlobungsring Band Set 18 K Gelbgold",
-    "gebot": "2364.62",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128030815263?_skw=diamant+ring+IGI&hash=item1dcf3b341f:g:31EAAeSwe9ZqgsOj",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-17T09:02:09.615166+00:00"
-  },
-  {
-    "itemId": "v1|128030814805|0",
-    "objekt": "IGI Lab Created Diamant Verlobungsring Band Set 3,00 ct Ovalschliff 18 K Rotgold",
-    "gebot": "2455.24",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128030814805?_skw=diamant+ring+IGI&hash=item1dcf3b3255:g:t1UAAeSwNRJqgsGz",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-17T09:02:09.615166+00:00"
   }
 ]
