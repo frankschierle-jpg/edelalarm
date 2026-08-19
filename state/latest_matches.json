@@ -1,5 +1,30 @@
 [
   {
+    "itemId": "v1|178423762973|0",
+    "objekt": "3x 1g Goldbarren C. Hafner 999.9 Feingold",
+    "gebot": "390.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/178423762973?_skw=goldbarren+999&hash=item298ae2901d:g:7WYAAeSwlktqWMlC",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-19T17:42:39.426850+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:390.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|306720069648|0",
+    "objekt": "Cartier Juste un Clou Ring Gelbgold, Gr. 54 ",
+    "gebot": "2050.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/306720069648?_skw=Cartier+ring+gold&hash=item4769f0d810:g:z8YAAeSwPE5pboEZ&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY%2FZTSxiwG7ax%2FrX58gsc%2B%2FClTUqcYyS%2B8IKHq4huSdODKcAxRkjA2ZTpFsWWtMKUybBYZO33S85gd9LcBKwRahFzMi8efZWlEv9tqSxYQmNwMg1NFl%2F3hH13u2MtQfF8ryA6WjPNqcY6%2BsZnQY5f7kGy%2BFjGBUqHOQJrmJImdQyVAs5B4l3nyQUk671WiOYHpvgyw1RMq%2BMiz5cUc0Kg8rScg86F0299G99x39RrJrEBZf4p5NcBQnvI4ZqK5Ia%2BAsFpHozoKKLxyGV2sUjcnVjKQNZXH0QngGu8VTn7%2BPYQ%3D%3D",
+    "haendlertyp": "",
+    "haendlerbewertung": "0.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-19T17:42:39.426850+00:00"
+  },
+  {
     "itemId": "v1|237016336326|0",
     "objekt": "Cartier Trinity Kordelarmband 18k/750 Gelbgold Weißgold Rotgold Armband Top",
     "gebot": "850.00",
@@ -2202,28 +2227,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "99.6",
     "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-18T17:17:09.547795+00:00"
-  },
-  {
-    "itemId": "v1|358481917552|0",
-    "objekt": "4,50 ct Asscher-Schliff IGI Lab Grown Diamant Ehering Set Ring 18 kt Weißgold",
-    "gebot": "2291.54",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/358481917552?_skw=diamant+ring+IGI&hash=item53772ff670:g:dmQAAeSwHUxp6w2e",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-18T17:17:09.547795+00:00"
-  },
-  {
-    "itemId": "v1|358404268912|0",
-    "objekt": "18 K Gelbgold Diamant Verlobungsring IGI-zertifiziert im Labor gezüchtet 6,25...",
-    "gebot": "2525.04",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/358404268912?_skw=diamant+ring+IGI&hash=item53728f2370:g:PzwAAeSw59BpzkGR",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-18T17:17:09.547795+00:00"
   }
 ]
