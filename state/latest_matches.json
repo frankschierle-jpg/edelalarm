@@ -1,5 +1,41 @@
 [
   {
+    "itemId": "v1|198586101760|0",
+    "objekt": "Germania Mint Goldbarren 1 g Fine Gold Au 999,9 Microbar im Blister",
+    "gebot": "175.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/198586101760?_skw=goldbarren+999&hash=item2e3ca77000:g:IUIAAeSwYQVqiAHW",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-21T07:58:12.337900+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:175.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|318762650121|0",
+    "objekt": "950 Platin Diamant Ring Labor gezüchtet Smaragdschliff IGI-zertifiziert 1,5...",
+    "gebot": "1972.38",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/318762650121?_skw=diamant+ring+IGI&hash=item4a37bc0a09:g:JHEAAeSwGFpqiALv",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-21T07:58:12.337900+00:00"
+  },
+  {
+    "itemId": "v1|318762647383|0",
+    "objekt": "Lab Grown Damen Diamant Ring Ovalschliff 18k Gelbgold IGI-zertifiziert 2 Kt...",
+    "gebot": "1596.38",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/318762647383?_skw=diamant+ring+IGI&hash=item4a37bbff57:g:33AAAeSwehZqiAG5",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-21T07:58:12.337900+00:00"
+  },
+  {
     "itemId": "v1|389798603832|0",
     "objekt": "Seltene Bulgari Astrale 18K Gelbgold Ring Größe 55 Bvlgari",
     "gebot": "2190.00",
@@ -2228,41 +2264,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Markenschmuck (Boucheron)",
     "gefundenAm": "2026-08-20T07:26:11.200219+00:00"
-  },
-  {
-    "itemId": "v1|267754779249|0",
-    "objekt": "1g Chafner Goldbarren 999,9 Pure Sealed & Authentic Bullion FAST DELIVERY",
-    "gebot": "145.65",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/267754779249?_skw=gold+bar+999.9&hash=item3e576db271:g:uxIAAeSwd3dqfDst",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-20T06:23:29.592048+00:00",
-    "materialwert": 121.08,
-    "bewertung": "Nicht kaufen:145.65€ über Materialwert 121€",
-    "material": "1.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|117369287740|0",
-    "objekt": "Tiffany & Co. Damen Ring 6 K18 Gelbgold YG T-one schmaler Ring",
-    "gebot": "1249.46",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/117369287740?_skw=Tiffany+gold+ring&hash=item1b53c1343c:g:mfoAAeSwMf5qhpii",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.2",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-20T06:23:29.592048+00:00"
-  },
-  {
-    "itemId": "v1|117369287754|0",
-    "objekt": "Tiffany & Co. Damen Ring Nr. 10 18K Rotgold PG T Quadrat Ring",
-    "gebot": "1499.53",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/117369287754?_skw=Tiffany+gold+ring&hash=item1b53c1344a:g:hhMAAeSw~7pqhpio",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.2",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-20T06:23:29.592048+00:00"
   }
 ]
