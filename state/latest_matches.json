@@ -1,5 +1,19 @@
 [
   {
+    "itemId": "v1|820029998764|0",
+    "objekt": "Goldbarren 1 Gramm Highland Cow 2026 Gold 999.9",
+    "gebot": "175.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/820029998764?_skw=goldbarren+999&hash=itembeed98c6ac:g:5RkAAeSw6o5qh-cQ",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-21T06:01:52.024151+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:175.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
     "itemId": "v1|227484140469|0",
     "objekt": "Cartier Trinity Ohrringe - klein, neu mit Zertifikat",
     "gebot": "1590.00",
@@ -2249,17 +2263,6 @@
     "haendlertyp": "",
     "haendlerbewertung": "0.0",
     "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-20T05:47:14.771019+00:00"
-  },
-  {
-    "itemId": "v1|127634117021|0",
-    "objekt": "Tiffany & Co. 5.25 Ball Dangle Gold Ring 925 Silver 6.0g",
-    "gebot": "306.59",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/127634117021?_skw=Tiffany+gold+ring&hash=item1db796119d:g:BrsAAeSwH4hpbx6K",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Tiffany)",
     "gefundenAm": "2026-08-20T05:47:14.771019+00:00"
   }
 ]
