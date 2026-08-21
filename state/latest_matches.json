@@ -1,5 +1,41 @@
 [
   {
+    "itemId": "v1|168630310760|0",
+    "objekt": "Goldbarren 0,5 Gramm Feingold 999.9 - $ 5 Fiji 2019 \"Great Wall of China\"",
+    "gebot": "74.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168630310760?_skw=goldbarren+999&hash=item2743265768:g:c-0AAeSw69pqiBwY",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-21T11:15:58.612821+00:00",
+    "materialwert": 60.54,
+    "bewertung": "Nicht kaufen:74.0€ über Materialwert 61€",
+    "material": "0.5g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|287538044824|0",
+    "objekt": "Chopard Ice Cube Ring | Gr. 60,5 | 750/- Weißgold | Full Set 2026",
+    "gebot": "780.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/287538044824?_skw=Chopard+ring+gold&hash=item42f29a5f98:g:VjoAAeSwgW9qiC7O",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.4",
+    "grund": "Markenschmuck (Chopard)",
+    "gefundenAm": "2026-08-21T11:15:58.612821+00:00"
+  },
+  {
+    "itemId": "v1|198586432036|0",
+    "objekt": "950 Platin Lab gezüchteter Diamant IGI Ehering 1,30 Karat Ovalschliff Ring...",
+    "gebot": "2069.55",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/198586432036?_skw=diamant+ring+IGI&hash=item2e3cac7a24:g:QSMAAeSwaclqiC39",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-21T11:15:58.612821+00:00"
+  },
+  {
     "itemId": "v1|366473203836|0",
     "objekt": "Jaeger LeCoultre Ideale Armband Bracelet 10Mm 18K 750 Gold 53 Gramm Vintage",
     "gebot": "9283.97",
@@ -2236,39 +2272,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "99.6",
     "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-20T08:57:34.576474+00:00"
-  },
-  {
-    "itemId": "v1|117369408227|0",
-    "objekt": "Tiffany & Co. Damen Ring 11 18K Rotgold PG Flachbandring",
-    "gebot": "614.03",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/117369408227?_skw=Tiffany+gold+ring&hash=item1b53c30ae3:g:GncAAeSwGFpqhrUm",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.2",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-20T08:57:34.576474+00:00"
-  },
-  {
-    "itemId": "v1|206505284786|0",
-    "objekt": "Boucheron Epure Ring Pt950 Platin Band Größe 57 US8 poliert echt Frankreich",
-    "gebot": "603.47",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/206505284786?_skw=Boucheron+ring&hash=item3014ac94b2:g:YnYAAeSw1qNqhrUd",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Boucheron)",
-    "gefundenAm": "2026-08-20T08:57:34.576474+00:00"
-  },
-  {
-    "itemId": "v1|198583873830|0",
-    "objekt": "18 K Gelbgold 1,18 Kt IGI Lab Grown Diamant Verlobungsring Rundschliff E F VVS",
-    "gebot": "1666.67",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/198583873830?_skw=diamant+ring+IGI&hash=item2e3c857126:g:3lwAAeSwF5Bqhrtw",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-20T08:57:34.576474+00:00"
   }
 ]
