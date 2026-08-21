@@ -1,5 +1,38 @@
 [
   {
+    "itemId": "v1|407161657770|0",
+    "objekt": "Degussa 0,5 Goldbarren 999,9 Feingold",
+    "gebot": "54.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/407161657770?_skw=goldbarren+999&hash=item5eccb9d9aa:g:N2EAAeSwQe1qiLv1",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "97.8",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-21T21:13:00.539425+00:00"
+  },
+  {
+    "itemId": "v1|820032321812|0",
+    "objekt": "Tiffany & Co. Atlas Ring 18kt Gelbgold",
+    "gebot": "1680.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/820032321812?_skw=Tiffany+gold+ring&hash=itembeedbc3914:g:L3cAAeSwWOBqiLlv",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-21T21:13:00.539425+00:00"
+  },
+  {
+    "itemId": "v1|407161591443|0",
+    "objekt": "Authentic Boucheron Amethyst Ring #230-000-717-6240",
+    "gebot": "2161.63",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/407161591443?_skw=Boucheron+ring&hash=item5eccb8d693:g:h7sAAeSwWaNqiLFN&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbRtJVw0nDb7LI070pPbclSR2xlRORog8xnikadbP8veoK5BcB5%2FyIez43p0wNEo499RVp4ZcqGNSbEuPQbGcMTypTfvEfcG4R%2F3p1vgYnusx1BHI6FgZNayrbMLkxPGpt9jnR91YHJohNtG6OitEiq7--Ych7c0rXL9p6B5CTTEeLmHy%2Br%2ByMHQCyRFKynP8dMEC12gU3Cn2hNqkJ5qmULV%2BZF982asPd8XUd6vTGsiQbrbRHOGDpiOWBfH0FmMFdwxu5ASIToVcDZTuQ88HIhF0wGUCAfZLKCRam1QYnKCw%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Boucheron)",
+    "gefundenAm": "2026-08-21T21:13:00.539425+00:00"
+  },
+  {
     "itemId": "v1|257586396568|0",
     "objekt": "Wert 1.830,- Original Tiffany & Co. Damen Ring 750 / 18 Kt Gelb Gold Gr. 52 xxyy",
     "gebot": "1033.00",
@@ -2230,39 +2263,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "99.5",
     "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-20T16:03:00.736392+00:00"
-  },
-  {
-    "itemId": "v1|188817463931|0",
-    "objekt": "Cartier Armreif Love Weissgold 750 Größe 18 4 Diamanten 2012 Gold Damen Armband",
-    "gebot": "7990.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/188817463931?_skw=Cartier+armband&hash=item2bf665da7b:g:53EAAeSw7-5pJzCw",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-20T16:03:00.736392+00:00"
-  },
-  {
-    "itemId": "v1|377435936531|0",
-    "objekt": "TIFFANY & Co. Ring Milgrain Gold 750 Platin 950 Ringgröße 59 Pt950 18 Karat",
-    "gebot": "1050.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/377435936531?_skw=Tiffany+gold+ring&hash=item57e0ef5713:g:OTUAAeSwW8NqhyGO",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-20T16:03:00.736392+00:00"
-  },
-  {
-    "itemId": "v1|278299184454|0",
-    "objekt": "Boucheron Quatre Clou de Paris Ring 950 Platin Band JAL01160 #49 Ringgröße 5",
-    "gebot": "1923.66",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/278299184454?_skw=Boucheron+ring&hash=item40cbec8d46:g:3RIAAeSwk7FqhwM0",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "98.8",
-    "grund": "Markenschmuck (Boucheron)",
     "gefundenAm": "2026-08-20T16:03:00.736392+00:00"
   }
 ]
