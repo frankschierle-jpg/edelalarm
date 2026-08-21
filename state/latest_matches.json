@@ -1,5 +1,16 @@
 [
   {
+    "itemId": "v1|197834668640|0",
+    "objekt": "Diamant Ring IGI GIA HRD Lab Grown Asscher Cut 1,50 Ct 18K Gelbgold 5 6 7,5 8",
+    "gebot": "1698.40",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/197834668640?_skw=diamant+ring+IGI&hash=item2e0fdd7a60:g:z-4AAeSwTllpDHWV&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbdwjdcEZLX37BeUT2hol7RFykqWjOx3DDv5Sn6kUeVy0lXWHXjoCA33I%2BvzsuuM4cSwXHDB3kU3NRspsV7ObN9du%2BDL79G%2F6Yf%2FGdcZ6RYGwXVokcgXTLwp9CiM6uCtAnf5wQ63HRvB4fzD5bXreRK09%2F1ECFO1H1djlnTUNHuLpgSPC9aWsg0E%2FG748XyXjdQA2JybLAAqE7iF3bjyrdEqF09X%2FpdVhl0lWKrC9UtEJr8Iyf3no7tmN0SMXhGRA9QPOGYKbNrGTiw69txp6MjpTZ5t7cxW4XmJEMZD2eVcw%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-21T18:20:00.181796+00:00"
+  },
+  {
     "itemId": "v1|800546239931|0",
     "objekt": "Tiffany & Co. Love Herz Ring Größe US 3,75 Gold Silber 2,2 g",
     "gebot": "246.62",
@@ -2250,19 +2261,5 @@
     "haendlerbewertung": "100.0",
     "grund": "loser Diamant 2.5 ct mit Zertifikat",
     "gefundenAm": "2026-08-20T14:12:39.878997+00:00"
-  },
-  {
-    "itemId": "v1|398307673238|0",
-    "objekt": "Argor - Heraeus Hase 2023 Goldbarren 1 Gramm , 999.9",
-    "gebot": "289.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/398307673238?_skw=goldbarren+999&hash=item5cbcfcc496:g:ogsAAeSwcotpnXlb",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-20T13:29:51.976802+00:00",
-    "materialwert": 121.08,
-    "bewertung": "Nicht kaufen:289.0€ über Materialwert 121€",
-    "material": "1.0g Feingold 999.9"
   }
 ]
