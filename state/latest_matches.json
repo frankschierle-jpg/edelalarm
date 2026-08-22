@@ -1,5 +1,27 @@
 [
   {
+    "itemId": "v1|206510171892|0",
+    "objekt": "Goldbarren Glücks-Kleeblatt 999 Feingold 1/500 oz Zertifikat Nr. 076385",
+    "gebot": "970.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/206510171892?_skw=goldbarren+999&hash=item3014f726f4:g:8f4AAeSwzVlqigLl",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-22T20:40:49.241265+00:00"
+  },
+  {
+    "itemId": "v1|318766619523|0",
+    "objekt": "950 Platin 1,3 ct Diamant Ring feiner Rundschliff IGI-zertifiziert im Labor...",
+    "gebot": "2134.55",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/318766619523?_skw=diamant+ring+IGI&hash=item4a37f89b83:g:TKgAAeSw2o5qiZ2N",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-22T20:40:49.241265+00:00"
+  },
+  {
     "itemId": "v1|366622111706|0",
     "objekt": "Münz Manufaktur Goldbarren 10 g Gold Feingold 999,9 LBMA Good Delivery",
     "gebot": "1500.00",
@@ -2227,30 +2249,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-21T11:43:56.592642+00:00"
-  },
-  {
-    "itemId": "v1|168630310760|0",
-    "objekt": "Goldbarren 0,5 Gramm Feingold 999.9 - $ 5 Fiji 2019 \"Great Wall of China\"",
-    "gebot": "74.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/168630310760?_skw=goldbarren+999&hash=item2743265768:g:c-0AAeSw69pqiBwY",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-21T11:15:58.612821+00:00",
-    "materialwert": 60.54,
-    "bewertung": "Nicht kaufen:74.0€ über Materialwert 61€",
-    "material": "0.5g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|287538044824|0",
-    "objekt": "Chopard Ice Cube Ring | Gr. 60,5 | 750/- Weißgold | Full Set 2026",
-    "gebot": "780.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/287538044824?_skw=Chopard+ring+gold&hash=item42f29a5f98:g:VjoAAeSwgW9qiC7O",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.4",
-    "grund": "Markenschmuck (Chopard)",
-    "gefundenAm": "2026-08-21T11:15:58.612821+00:00"
   }
 ]
