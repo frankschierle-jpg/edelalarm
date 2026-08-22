@@ -1,5 +1,19 @@
 [
   {
+    "itemId": "v1|267757752450|0",
+    "objekt": "Geiger Edelmetalle 1g Gold Bar 999.9 in Sealed Capsule",
+    "gebot": "169.40",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/267757752450?_skw=gold+bar+999.9&hash=item3e579b1082:g:GcAAAeSwqvlqgAc2",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-22T10:11:18.342372+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:169.4€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
     "itemId": "v1|820033780968|0",
     "objekt": "Goldbarren Au999.9 - PAMP Maradona 1g",
     "gebot": "165.00",
@@ -2246,17 +2260,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "99.2",
     "grund": "kein Zertifikat, aber Händler 99.2% aus DE",
-    "gefundenAm": "2026-08-20T23:41:40.361533+00:00"
-  },
-  {
-    "itemId": "v1|257692549421|0",
-    "objekt": "Cartier Diamant 0,19ct Ring Platin Größe47 4 (US) 90318557",
-    "gebot": "536.34",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/257692549421?_skw=platin+diamant+ring&hash=item3bffac412d:g:5eAAAeSwGatqhudF",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.6",
-    "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-20T23:41:40.361533+00:00"
   }
 ]
