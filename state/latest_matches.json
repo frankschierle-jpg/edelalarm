@@ -1,5 +1,27 @@
 [
   {
+    "itemId": "v1|820032327140|0",
+    "objekt": "Cartier Trinity Ring Klassisches Modell 750er Gold Gr. 48",
+    "gebot": "1480.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/820032327140?_skw=Cartier+ring+gold&hash=itembeedbc4de4:g:PPAAAeSwgW9qiLoO",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-22T21:53:06.240303+00:00"
+  },
+  {
+    "itemId": "v1|178432572735|0",
+    "objekt": "Authentischer Van Cleef & Arpels Perlée Medium Ring #230-000-603-3568",
+    "gebot": "1710.67",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/178432572735?_skw=Van+Cleef+Arpels+ring&hash=item298b68fd3f:i:178432572735",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Van Cleef)",
+    "gefundenAm": "2026-08-22T21:53:06.240303+00:00"
+  },
+  {
     "itemId": "v1|318766813317|0",
     "objekt": "Massiver 950 Platin Diamant Ring Lab Grown EF VVS IGI Zertifiziert 1,3 Ct...",
     "gebot": "2134.55",
@@ -2227,30 +2249,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Markenschmuck (Boucheron)",
     "gefundenAm": "2026-08-21T12:21:31.232074+00:00"
-  },
-  {
-    "itemId": "v1|398311355286|0",
-    "objekt": "Art Deco 1.56 ct Diamant Ring in 750 Gold und Platin um 1915",
-    "gebot": "3900.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/398311355286?_skw=platin+diamant+ring&hash=item5cbd34f396:g:hYoAAeSweAVqht9A",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "kein Zertifikat, aber Händler 100.0% aus DE",
-    "gefundenAm": "2026-08-21T12:21:31.232074+00:00"
-  },
-  {
-    "itemId": "v1|124501612139|0",
-    "objekt": "1 Gram Solid 24ct Gold Bar 999.9 Fine Bullion Pure Valcambi Swiss Made Not Scrap",
-    "gebot": "208.94",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/124501612139?_skw=gold+bar+999.9&hash=item1cfcdfd66b:g:9fIAAOSw5yJl6eIp",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-21T12:21:31.232074+00:00",
-    "materialwert": 121.08,
-    "bewertung": "Nicht kaufen:208.94€ über Materialwert 121€",
-    "material": "1.0g Feingold 999.9"
   }
 ]
