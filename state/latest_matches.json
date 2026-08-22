@@ -1,5 +1,16 @@
 [
   {
+    "itemId": "v1|336755933635|0",
+    "objekt": "Krügerrand Gold 1/50oz PP + Sammelalbum",
+    "gebot": "100.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/336755933635?_skw=krugerrand+gold&hash=item4e6837c1c3:g:y6IAAeSwIMRqibNk",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-22T14:55:49.723048+00:00"
+  },
+  {
     "itemId": "v1|188829577264|0",
     "objekt": "Massives Wende Gold Collier 750 Gelbgold 18K UNOAERRE 1 AR 58,2g Kette",
     "gebot": "8950.00",
@@ -2253,16 +2264,5 @@
     "materialwert": 121.08,
     "bewertung": "Nicht kaufen:233.03€ über Materialwert 121€",
     "material": "1.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|188675829812|0",
-    "objekt": "Cartier Armreif Love Roségold 750 Größe 20 2019 Gold Damen Herren Armband",
-    "gebot": "5990.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/188675829812?_skw=Cartier+armband&hash=item2bedf4b034:g:RHkAAeSw9l1pjJxC",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-21T04:55:25.855911+00:00"
   }
 ]
