@@ -1,5 +1,41 @@
 [
   {
+    "itemId": "v1|298608684190|0",
+    "objekt": "Royal Mint Britannia 1g Goldbarren. 999,9Au/24ct Feingold. Versiegelt in Testkarte.",
+    "gebot": "185.68",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/298608684190?_skw=gold+bar+999.9&hash=item458676ec9e:g:IVMAAeSwUkpqic-m",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-22T17:10:51.983508+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:185.68€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|188829769107|0",
+    "objekt": "Münztube Krügerrand 1 Oz Unze Gold Original gebraucht KR 15 Zubehör Münze",
+    "gebot": "5.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/188829769107?_skw=krugerrand+gold&hash=item2bf7219d93:g:1KEAAeSwRqBqidBC",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-22T17:10:51.983508+00:00"
+  },
+  {
+    "itemId": "v1|407026722917|0",
+    "objekt": "Pièce  de 20 Dollars -2016-  de 1/2 oz en or  , Canadian Gold Maple Leaf Coin",
+    "gebot": "2050.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/407026722917?_skw=maple+leaf+gold+coin&hash=item5ec4aee865:g:8fwAAeSwogFqPAvX",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-22T17:10:51.983508+00:00"
+  },
+  {
     "itemId": "v1|820030340806|0",
     "objekt": "Cartier Santos Carree Spider Dial Automatik 2961 Stahl/Gold 29mm Revision",
     "gebot": "5350.00",
@@ -2225,38 +2261,5 @@
     "materialwert": 121.08,
     "bewertung": "Nicht kaufen:175.0€ über Materialwert 121€",
     "material": "1.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|318762650121|0",
-    "objekt": "950 Platin Diamant Ring Labor gezüchtet Smaragdschliff IGI-zertifiziert 1,5...",
-    "gebot": "1972.38",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/318762650121?_skw=diamant+ring+IGI&hash=item4a37bc0a09:g:JHEAAeSwGFpqiALv",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-21T07:58:12.337900+00:00"
-  },
-  {
-    "itemId": "v1|318762647383|0",
-    "objekt": "Lab Grown Damen Diamant Ring Ovalschliff 18k Gelbgold IGI-zertifiziert 2 Kt...",
-    "gebot": "1596.38",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/318762647383?_skw=diamant+ring+IGI&hash=item4a37bbff57:g:33AAAeSwehZqiAG5",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-21T07:58:12.337900+00:00"
-  },
-  {
-    "itemId": "v1|389798603832|0",
-    "objekt": "Seltene Bulgari Astrale 18K Gelbgold Ring Größe 55 Bvlgari",
-    "gebot": "2190.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/389798603832?_skw=Bulgari+ring+gold&hash=item5ac1ceac38:g:gWkAAeSwjC9pxDiM",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Bulgari)",
-    "gefundenAm": "2026-08-21T07:08:52.839745+00:00"
   }
 ]
