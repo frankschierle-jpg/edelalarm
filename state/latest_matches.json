@@ -1,5 +1,30 @@
 [
   {
+    "itemId": "v1|327323075310|0",
+    "objekt": "The Royal Mint Britannia Goldbarren 1g 999,9 Feingold (gekrempelt)",
+    "gebot": "140.19",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/327323075310?_skw=gold+bar+999.9&hash=item4c35f9c2ee:g:KosAAeSwicFqi00a",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T19:50:52.878467+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:140.19€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|406187040257|0",
+    "objekt": "Diamant Ring Gold Lab Grown 18k Weiß IGI Zertifiziert Smaragdschliff 2 Karat",
+    "gebot": "1556.02",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/406187040257?_skw=diamant+ring+IGI&hash=item5e92a25e01:g:SFAAAOSwSl9oEL99",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-23T19:50:52.878467+00:00"
+  },
+  {
     "itemId": "v1|158216293171|0",
     "objekt": "PAMP Suisse Goldbarren 1g 999,9 – Highland Cow 2026 – OVP & Zertifiziert ",
     "gebot": "151.00",
@@ -2247,28 +2272,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "100.0",
     "grund": "Markenschmuck (Van Cleef)",
-    "gefundenAm": "2026-08-22T03:57:28.188406+00:00"
-  },
-  {
-    "itemId": "v1|358227909540|0",
-    "objekt": "Ring mit Brillant Solitär Diamant in 950 er Platin Grösse 52 Expertise top",
-    "gebot": "5900.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/358227909540?_skw=platin+diamant+ring&hash=item53680c1ba4:g:zVgAAeSwf8FqFYZc",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.6",
-    "grund": "kein Zertifikat, aber Händler 99.6% aus DE",
-    "gefundenAm": "2026-08-22T03:57:28.188406+00:00"
-  },
-  {
-    "itemId": "v1|366024669068|0",
-    "objekt": "Goldmünze Maple Leaf 2026 - Kanada - Anlagemünze - 1/10 Oz ST",
-    "gebot": "485.71",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/366024669068?_skw=maple+leaf+gold+coin&hash=item5538c5378c:g:XFoAAeSw~z5pKWly",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
     "gefundenAm": "2026-08-22T03:57:28.188406+00:00"
   }
 ]
