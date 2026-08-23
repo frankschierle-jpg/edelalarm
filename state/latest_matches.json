@@ -1,5 +1,38 @@
 [
   {
+    "itemId": "v1|168633579344|0",
+    "objekt": "Gold Krügerrand/Krügerrand 1981 1/4 Oz  proof in original Ledercase der SA Mint",
+    "gebot": "1075.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168633579344?_skw=krugerrand+gold&hash=item2743583750:g:AvgAAeSwX4xqitGn",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T17:35:20.233806+00:00"
+  },
+  {
+    "itemId": "v1|168633572409|0",
+    "objekt": "Gold Krügerrand/Krügerrand 1981 1/10 Oz  proof in original Ledercase der SA Mint",
+    "gebot": "475.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168633572409?_skw=krugerrand+gold&hash=item2743581c39:g:vK0AAeSw8rhqishA",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T17:35:20.233806+00:00"
+  },
+  {
+    "itemId": "v1|168633565969|0",
+    "objekt": "Gold Krügerrand/Krügerrand 1981 1/2 Unze proof in original Ledercase der SA Mint",
+    "gebot": "2150.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168633565969?_skw=krugerrand+gold&hash=item2743580311:g:ez8AAeSw92lqisNJ",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T17:35:20.233806+00:00"
+  },
+  {
     "itemId": "v1|298609971483|0",
     "objekt": "Boucheron Parfum 15 ml La Ring Rare Volles ",
     "gebot": "49.00",
@@ -2228,41 +2261,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-22T02:04:22.662275+00:00"
-  },
-  {
-    "itemId": "v1|398312899246|0",
-    "objekt": "5 Gramm Goldbarren Degussa 999,9 Feingold In Blister 🌞🍀🌛",
-    "gebot": "666.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/398312899246?_skw=goldbarren+999&hash=item5cbd4c82ae:g:mOUAAeSwA-tqiOuw",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-22T00:39:12.755471+00:00",
-    "materialwert": 605.39,
-    "bewertung": "Nicht kaufen:666.0€ über Materialwert 605€",
-    "material": "5.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|286173073740|588288130438",
-    "objekt": "Bracelet de Montre Acier pour Cartier Tank 16mm 17mm 17,5mm 20mm 22mm 23mm Inox",
-    "gebot": "39.03",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/286173073740?_skw=Cartier+armband&hash=item42a13e914c:g:ztcAAOSwhiZl-X2G",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-22T00:39:12.755471+00:00"
-  },
-  {
-    "itemId": "v1|158105904580|0",
-    "objekt": "BULGARI B.ZERO1 3 BAND RING WEISSGOLD 18K 750 GR 56 BANDRING MASSIV BOX OVP",
-    "gebot": "2150.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/158105904580?_skw=Bulgari+ring+gold&hash=item24cfd8a5c4:g:yxQAAeSw~oJqX5Zp",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "90.9",
-    "grund": "Markenschmuck (Bulgari)",
-    "gefundenAm": "2026-08-22T00:39:12.755471+00:00"
   }
 ]
