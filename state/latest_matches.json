@@ -1,5 +1,30 @@
 [
   {
+    "itemId": "v1|377441768207|0",
+    "objekt": "1g Gold 999.9 Barren ESG CombiBar Valcambi Einzelbarren Feingold Goldbarren",
+    "gebot": "140.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/377441768207?_skw=gold+bar+999.9&hash=item57e148530f:g:I0cAAeSwPFVqbgGc",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "95.2",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T10:11:50.080468+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:140.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|227487805654|0",
+    "objekt": "Cartier LOVE Ring 750 Gelbgold – Gr. 13 / Full Set – Rechnung & Box",
+    "gebot": "1350.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/227487805654?_skw=Cartier+ring+gold&hash=item34f75470d6:g:M9oAAeSwCqtqir1t",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-23T10:11:50.080468+00:00"
+  },
+  {
     "itemId": "v1|257697392925|0",
     "objekt": "Gebrauchter Van Cleef & Arpels 20 Tage 3x Punkte Ring Sweet Alhambra",
     "gebot": "4324.02",
@@ -2230,27 +2255,5 @@
     "haendlerbewertung": "99.5",
     "grund": "Markenschmuck (Boucheron)",
     "gefundenAm": "2026-08-21T20:42:32.072878+00:00"
-  },
-  {
-    "itemId": "v1|188589923285|0",
-    "objekt": "1/200 Oz Goldbarren 999,9 Fine Germania Mint Sealed Assay Mini Bullion Investment",
-    "gebot": "40.84",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/188589923285?_skw=gold+bar+999.9&hash=item2be8d5dbd5:g:qVgAAeSwXCBqCZR4",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-21T20:12:35.478312+00:00"
-  },
-  {
-    "itemId": "v1|800465955751|0",
-    "objekt": "Österreich - 10 Euro \" Wiener Philharmoniker 2002\" - 1/10 Unze Feingold",
-    "gebot": "435.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/800465955751?_skw=wiener+philharmoniker+gold&hash=itemba5f7d2ba7:g:64cAAeSwcUpqcd7J",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-21T20:12:35.478312+00:00"
   }
 ]
