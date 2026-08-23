@@ -1,5 +1,19 @@
 [
   {
+    "itemId": "v1|158215987407|0",
+    "objekt": "Heimerle + Meule 1 Gramm Goldbarren geprägt 999.9",
+    "gebot": "145.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/158215987407?_skw=goldbarren+999&hash=item24d66860cf:g:wqIAAeSwbLhqiwbA",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T15:10:42.047025+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:145.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
     "itemId": "v1|237025231208|0",
     "objekt": "Cartier Pasha C – Ref. 1031 / W31010M7 - Edelstahl - Champagner Zifferblatt",
     "gebot": "1650.00",
@@ -2250,16 +2264,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Markenschmuck (Bulgari)",
     "gefundenAm": "2026-08-21T23:56:41.342268+00:00"
-  },
-  {
-    "itemId": "v1|398312787755|0",
-    "objekt": "Chopard Ice Cube 18 Karat Weißgold Bandring Größe 55",
-    "gebot": "963.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/398312787755?_skw=Chopard+ring+gold&hash=item5cbd4acf2b:g:J-QAAeSwKVxqiN0B&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYZfdY%2Fm75JAxgMADhDPfZRuFMIhYOJWk9SFDE3nykWeKt%2BBDbHVb12VkYfUR57afKuoCP67SVERsc4%2BEQf4lLPZPJziwXNtZGgONeuNAvbyRmY5%2FXhqn2uPlIgpF1ITz85IQZ3uoWYOYMFl%2FWb5BMgks6pgNW67WFyGrJjcth5lT8jfoURgVkVS%2B4ZrV8eis57k8uHYtEuKaaEV2tpUozKx4c989ufH5HgNa1xZfdp%2BY1WEVjXaxPJpCBqXdZr85OQMgCkhMUfVKM6wZtwM84s9%2B5fpBAo3xvnup%2FBJV8KJg%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.7",
-    "grund": "Markenschmuck (Chopard)",
-    "gefundenAm": "2026-08-21T23:39:36.083651+00:00"
   }
 ]
