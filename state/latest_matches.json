@@ -1,5 +1,63 @@
 [
   {
+    "itemId": "v1|128040320896|0",
+    "objekt": "Goldbarren 1 g 999.9 Feingold",
+    "gebot": "140.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/128040320896?_skw=goldbarren+999&hash=item1dcfcc3f80:g:socAAeSwGEZqiuWY",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T13:02:58.048714+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:140.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|158215863588|0",
+    "objekt": "Goldmünze Südafrika Krügerrand 2024 - Anlagemünze - 1/2 Oz ST",
+    "gebot": "2239.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/158215863588?_skw=krugerrand+gold&hash=item24d6667d24:g:0Z4AAeSwzMRqiup2",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T13:02:58.048714+00:00"
+  },
+  {
+    "itemId": "v1|158215847871|0",
+    "objekt": "1 oz Krügerrand (Goldunze Nachbildung)",
+    "gebot": "12.95",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/158215847871?_skw=krugerrand+gold&hash=item24d6663fbf:g:qZEAAeSwAVhqfZPZ&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYYFNqAqrsTkKUgzPRoQ5M7UNqtkhg6fagbpIQegkluAecBWgC8MdPYANuyk0L4icfaVGgY7G176t0O0IDkoTVzvOKwTdIWb3s8A%2FNaZoxO3X9lIxt5os1VqTGjIg8uimlM3Acwb5s5C0Fo63CMFDDHojLALEFUuj32N1U4TX43X6nbhcmoPazyGN8zFdH79XpZfNjzG0ZeJb5NX4vyhl0awqaRAc66c%2Bv%2BNipDqPoAogeXqrUGkM96VshXo3zlsHNM3fisislFHLCj742U9ye1oQ%2BaqMF5IwwpixC5ujo6LQ%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T13:02:58.048714+00:00"
+  },
+  {
+    "itemId": "v1|298609667172|0",
+    "objekt": "Authentischer Van Cleef & Arpels Perlée Medium Ring #230-000-539-7845",
+    "gebot": "1654.53",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/298609667172?_skw=Van+Cleef+Arpels+ring&hash=item458685ec64:g:lUcAAeSwa1Bqiujl",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Van Cleef)",
+    "gefundenAm": "2026-08-23T13:02:58.048714+00:00"
+  },
+  {
+    "itemId": "v1|377432010798|0",
+    "objekt": "Cartier Love Diamond Bracelet Yellow Gold New",
+    "gebot": "2450.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/377432010798?_skw=Cartier+armband&hash=item57e0b3702e:g:YMUAAeSwjspqhZyl",
+    "haendlertyp": "",
+    "haendlerbewertung": "0.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-23T13:02:58.048714+00:00"
+  },
+  {
     "itemId": "v1|198345764125|497424378982",
     "objekt": "Münztube 1oz Gold Krügerrand Maple Eagle Britannia Double Eagle 29-35mm Cointube",
     "gebot": "6.19",
@@ -2203,60 +2261,5 @@
     "haendlerbewertung": "99.5",
     "grund": "Markenschmuck (Van Cleef)",
     "gefundenAm": "2026-08-21T23:12:52.412998+00:00"
-  },
-  {
-    "itemId": "v1|298607729229|0",
-    "objekt": "Authentischer Boucheron Amethyst Ring #230-000-717-6240",
-    "gebot": "2178.26",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/298607729229?_skw=Boucheron+ring&hash=item4586685a4d:g:p1YAAeSwNhhqiNPS",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Boucheron)",
-    "gefundenAm": "2026-08-21T23:12:52.412998+00:00"
-  },
-  {
-    "itemId": "v1|396911080377|0",
-    "objekt": "Boucheron Amethyst Single-Stone Ring",
-    "gebot": "3384.99",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/396911080377?_skw=Boucheron+ring&hash=item5c69be73b9:g:9MQAAeSw1OtoiNZj&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGa%2B1pDQfNi6TTQI8A%2FoK%2BXHgBOwgJrEd%2BEQuz3Mddv9NOyju0bjah42oaZ2GhLs0e9g%2For6phzzamZpxHReVQizGSsnrC2qzwNLwgiB9NtVanjfRLY1J3V3r3I6mjHIDvgLmoedg7KRZorA9IoQFVuBv0nRieQC6m4Tz5ivUxyghruRXe8sd4TZLB7V3Y2lSMaDmVsz%2FBXvGp15tf%2BAgOXdBCWLLNFSECp6nDWcAswb2SaA24JZxc6Cj8G3e6uz1nIvhRTxc%2BZcOYaoVCp7yE977efikxSeApNbjp%2FeynX2Pw%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Boucheron)",
-    "gefundenAm": "2026-08-21T23:12:52.412998+00:00"
-  },
-  {
-    "itemId": "v1|137364299557|435614648144",
-    "objekt": "Münzbox für 72x 1 Oz Silbermünzen, Goldmünzen, Maple Leaf | Krügerrand | etc.",
-    "gebot": "27.70",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/137364299557?_skw=krugerrand+gold&var=435614648144&hash=item1ffb8cdf25:g:eW4AAeSwpp1qHCQN&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZupnDE3SkU1dux5SQC5k%2F%2BGPe6JgydauWXymao9claL44uS%2FiKqY1sVnYbye0daIFlJxfnlAgKA96w9pUqoI5Yj3nijf%2BK5MhN--uj2Kt0w5p21yiLqnj%2Fl6n%2FKB52%2FOf6K8n9%2BluqsOlkjhdsvkw2t6tT1TWhjLZMmoc9soNHr990MCtzK04IYO1%2Bl8B0H54gjwmZPtfomDcU4srzzG8MoTYk1TWlgwaVnwoJEGt9g3X7JzZQc6lBN91NCUozG6nTHsK4meGEglAMv4enr7yc01xxnUgPdVmUc%2BEkI8ZnfA%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-21T22:43:45.569080+00:00"
-  },
-  {
-    "itemId": "v1|185375693368|0",
-    "objekt": "1982 - jetzt 5 $ Kanada 1/10 oz Maple Leaf Screw Top Scroll Coin Bezel in 14k Gold",
-    "gebot": "338.30",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/185375693368?_skw=maple+leaf+gold+coin&hash=item2b29409a38:g:rO4AAOSwRGRnfKDc&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGa8voLL1bmdJrh0gpWl7RulHTKl8y3HwStIzXeTqUgWl6QpCkN5g%2B%2FurxSylHr%2FiaarFWa%2BMXLWt2XYeIYylUA6XgrI68AikthTZjzpGBXDgtv%2Br9B1%2FjPPcvVrtIYsXhXUjfhj%2FPJ33r2tro4e0lXwqILF847Is7XZPeTV9pNIaoulCNfUrO9D2JAtvsRxh2uNt9jNoriyLb3dQzw2%2BdkPv%2B9jWKd4vrOfLwFz13R8eNX3eKxMsrhAI028tamHou%2Ffe03Tr%2BsMP2OGhUHmddZaN33bAdFa6fAp90%2Flh6SA%2FA%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.9",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-21T22:43:45.569080+00:00"
-  },
-  {
-    "itemId": "v1|407161773026|0",
-    "objekt": "Authentischer Van Cleef & Arpels Vintage Alhambra Ohrring (einzeln)...",
-    "gebot": "2106.39",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/407161773026?_skw=Van+Cleef+Arpels+ring&hash=item5eccbb9be2:g:It0AAeSw1qNqiNJ~",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Van Cleef)",
-    "gefundenAm": "2026-08-21T22:43:45.569080+00:00"
   }
 ]
