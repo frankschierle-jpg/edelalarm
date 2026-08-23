@@ -1,5 +1,27 @@
 [
   {
+    "itemId": "v1|257666264624|0",
+    "objekt": "Niue Maple Leaf 2025 | 1/1000 oz .9999 Fine Gold Coin in COA Assay",
+    "gebot": "38.53",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/257666264624?_skw=maple+leaf+gold+coin&hash=item3bfe1b2e30:g:JuoAAeSwBRppiMM2",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-23T23:10:19.509393+00:00"
+  },
+  {
+    "itemId": "v1|127711284638|0",
+    "objekt": "3,40 Karat Diamant Ring 18K Gelbgold Birne & Kissen Toi et Moi IGI Lab Grown",
+    "gebot": "1753.06",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/127711284638?_skw=diamant+ring+IGI&hash=item1dbc2f8d9e:g:KPsAAeSwid5pOWf2&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb7Y4ozR9hyIeUBAsJLTCsCst7NKoTaYclEzn2WnxCFMAFWaWGm%2BlseLkpE3vUoZtdoRVSEIDzX02uJktnUjmhvgtkXf40t8xJdSkXxyDdJvuj7P84CD9FQ10NAwPqWIn8yfNmMjAzs74B7l1ZqAUDvKU1szOTvwNvl5gc03sazHANpIX%2FFX6nVJDLSMAV4ztOshqs2ShhCYBrn36VTGZwe5%2Fgj1GBuLLsM3vyiz7iL2M6fvyUbL%2Fzu4Uf6jkbb6fbJ7TBJLR0RaDIwxmt5p2whWEo9Dg3ocKmqTYj4q%2Bg9WQ%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-23T23:10:19.509393+00:00"
+  },
+  {
     "itemId": "v1|298565254407|0",
     "objekt": "Tiffany & Co. Somerset Diamant Mesh Ring 18k Gelbgold Gr. 7 Band mit Box & Etui",
     "gebot": "1630.28",
@@ -2248,30 +2270,5 @@
     "materialwert": 2817.9,
     "bewertung": "Nicht kaufen:8900.0€ über Materialwert 2818€",
     "material": "31.0g 18kt Gold (kein Edelstein)"
-  },
-  {
-    "itemId": "v1|158214148822|0",
-    "objekt": "Heraeus Kinebar Goldbarren 5 g Feingold 999,9 Raffin Feingehalt 999,9",
-    "gebot": "698.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/158214148822?_skw=goldbarren+999&hash=item24d64c52d6:g:ahUAAeSwiipqiUof",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-22T07:46:28.053416+00:00",
-    "materialwert": 605.39,
-    "bewertung": "Nicht kaufen:698.0€ über Materialwert 605€",
-    "material": "5.0g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|128038956475|0",
-    "objekt": "Diamant Verlobungsring Damen Smaragdschliff 3,40 ct IGI Lab Created 950 Platin",
-    "gebot": "2265.11",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128038956475?_skw=diamant+ring+IGI&hash=item1dcfb76dbb:g:lKIAAeSwTgpqiVHH",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-22T07:46:28.053416+00:00"
   }
 ]
