@@ -1,5 +1,74 @@
 [
   {
+    "itemId": "v1|398317358803|0",
+    "objekt": "1 g Goldbarren Chamois – Gams | 999,9 Feingold | PAMP Suisse",
+    "gebot": "1570.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/398317358803?_skw=goldbarren+999&hash=item5cbd908ed3:g:lxsAAeSwxxBpP9I~",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-24T05:02:34.192265+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:1570.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|307142750720|0",
+    "objekt": "Cartier 18K Gelbgold Ehering Ring Größe 58 / US 8,5 echt",
+    "gebot": "1108.83",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/307142750720?_skw=Cartier+ring+gold&hash=item4783227200:g:IF8AAeSwYtNqi3SG&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb2sf06Im1LbjUFL%2BkJofDd1tChXaEREKNGvzchhiyBR5kVVTk5ksduvfABzRpqNkG7D2Rp%2FyZG0jRJuvvZKn5ditgVZ79yaHhRAPj0OJoZIyPyuuZrZoKWnNvs4qCFAJzN87LRDAujFfb4PXBlTDFSmoyQTmKpN0dZUY5HHdjnh1eE2bS3c2cXcuSjElsG2sMGDj3Sj1iF6FjggjlzZxkhRpPMJAKcBEUAwmgdW1QEGdaF7aCdwALPFwZgT%2F1rrqIMsJkH76g0QvIDk0%2FbOaCSbgY2%2BAwa1Ha%2BjEsVT%2Bc9mw%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-24T05:02:34.192265+00:00"
+  },
+  {
+    "itemId": "v1|117374379651|0",
+    "objekt": "Tiffany & Co. Damen Ring 8 K18 Gelbgold YG Diamant True Bandring 5PD",
+    "gebot": "874.22",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/117374379651?_skw=Tiffany+gold+ring&hash=item1b540ee683:g:skYAAeSw-qlqi8Nt",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.2",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-24T05:02:34.192265+00:00"
+  },
+  {
+    "itemId": "v1|128041329311|0",
+    "objekt": "Van Cleef & Arpels Damen Ring Nr. 14 K18 Gelbgold YG Taiga Auge/Mutter der...",
+    "gebot": "7427.86",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/128041329311?_skw=Van+Cleef+Arpels+ring&hash=item1dcfdba29f:g:0YEAAeSw~vdqi80I",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.2",
+    "grund": "Markenschmuck (Van Cleef)",
+    "gefundenAm": "2026-08-24T05:02:34.192265+00:00"
+  },
+  {
+    "itemId": "v1|327302891009|0",
+    "objekt": "Cartier Ring Juste un Clou Small Model SM B4225955 750(18K) Yellow Gold #55 US8",
+    "gebot": "1348.57",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/327302891009?_skw=Cartier+ring+gold&hash=item4c34c5c601:g:Fr4AAeSw-zVqeXKb",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-24T05:02:34.192265+00:00"
+  },
+  {
+    "itemId": "v1|407137739712|0",
+    "objekt": "Cartier bracelet PLAQUETTE Figaro Chain 18K Yellow Gold  Yellow Gold Plate",
+    "gebot": "5908.90",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/407137739712?_skw=Cartier+armband&hash=item5ecb4ce3c0:g:VUUAAeSwLQFqWGpQ",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-24T05:02:34.192265+00:00"
+  },
+  {
     "itemId": "v1|820038846526|0",
     "objekt": "CARTIER PASHA 41mm",
     "gebot": "3999.00",
@@ -2198,71 +2267,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-22T13:01:45.516343+00:00"
-  },
-  {
-    "itemId": "v1|128039208475|0",
-    "objekt": "IGI Lab Created Diamant Ehering Band Set 6,00 ct Smaragdschliff 18 K Weißgold",
-    "gebot": "3192.88",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/128039208475?_skw=diamant+ring+IGI&hash=item1dcfbb461b:g:7SAAAeSwGFpqiZjc",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-22T13:01:45.516343+00:00"
-  },
-  {
-    "itemId": "v1|318766623545|0",
-    "objekt": "585 Gelbgold Ring Platin-Ringkopf mit Diamant Gr.48 um 1890",
-    "gebot": "380.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/318766623545?_skw=platin+diamant+ring&hash=item4a37f8ab39:g:7j8AAeSwrBFqiZlI",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.6",
-    "grund": "kein Zertifikat, aber Händler 99.6% aus DE",
-    "gefundenAm": "2026-08-22T13:01:45.516343+00:00"
-  },
-  {
-    "itemId": "v1|318211254391|0",
-    "objekt": "Cartier schwarzes Lederarmband 18 mm",
-    "gebot": "225.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/318211254391?_skw=Cartier+armband&hash=item4a16de6877:g:p7wAAeSwEFNqaMWk&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYOFZRMqeoP076a6SLndrPd9Va1WM2LqnL5Sr7nhqSm%2FFBYs6M9Luwe3QcrVWOJGaWBsriXQwXNa0NFL%2BxiWGORE%2FbA5ewN8ctPM9EWgZjpImcdDpsACUmXOCClw4H%2F0a%2FqDTITIXDiy5tAUj%2B5ChvwgAeXAoxBVg2iN4Pa5iJZP7DlVTqgsnx%2FKurpt9Md4X2ugyrFNCOSBIM2PuCqreXYU9Iszf9974AnMN6DHLFdOVSviWzThn%2Bs6SQfyVSAriFfme1t5VpYPHaOA5GW%2FtdVv4Xyhb69veLNey5v%2FqifzA%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.8",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-22T12:15:21.922064+00:00"
-  },
-  {
-    "itemId": "v1|318765982221|0",
-    "objekt": "Van Cleef & Arpels Diamant Pavé Ring K18 Gelbgold Damen [gebraucht]",
-    "gebot": "6655.54",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/318765982221?_skw=Van+Cleef+Arpels+ring&hash=item4a37eee20d:g:JtoAAeSwR-1qiSjE&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbOyT1cDcKxni5IRrQakqQKRNni1x8M2xU0SfTxSwY1h92sF%2BrdyUvdTYNOiVPyxU193HS60eEgg4vuzUMVpMM3y669hB9aG%2FUeh5AC0wYiuzFftSofHdGc1a%2B0Gv0%2BSkd%2BEgT%2BKfUDd%2F55zx%2Fpw4Qlh54Hi99R5G29TlNqifdEpYv3qSdB2va6gDiB%2Bri4CpwZ9g%2FLMB1Cl3MtcvJkbizwzbTq%2FJ9550DpYtWExcADk%2FLko93T01jvpVWPLO%2B%2FT9rLjFvmwDLFEhTYpa8VOf%2FRka7qEqnCAuW%2FROVmlx2gIw%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.6",
-    "grund": "Markenschmuck (Van Cleef)",
-    "gefundenAm": "2026-08-22T12:15:21.922064+00:00"
-  },
-  {
-    "itemId": "v1|820034027609|0",
-    "objekt": "Auth Cartier Empty Jewelry Box Case Set for Bracelet, Necklace & Ring 3pcs Mint",
-    "gebot": "170.95",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/820034027609?_skw=Cartier+armband&hash=itembeedd64059:g:SbgAAeSwWOBqiWfB",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.7",
-    "grund": "Markenschmuck (Cartier)",
-    "gefundenAm": "2026-08-22T12:15:21.922064+00:00"
-  },
-  {
-    "itemId": "v1|198522119233|0",
-    "objekt": "TIFFANY&Co.  Curved band Ring K18 Yellow Gold  Ladies [Used]",
-    "gebot": "434.97",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/198522119233?_skw=Tiffany+gold+ring&hash=item2e38d72441:g:FGoAAeSwARRqZACd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaNmVJfM8ocbYK3tqVqPz0AuuXtSLS8hTgmQU0xbP%2F6gvZvjY0YI8yeb46E2NLa%2BN6llhz81WA%2BP%2BgethHmkBcm4O1yQ%2Brnz4w4mxAEHyGc4SzyQ9bvLoaY%2FYP4Y7BhoE8gi%2BlRsaNGrru%2FJcppV7RIg8CIab%2BbwuCUSGU7epjx1NVeVT5oBANdcnX5MVtYlGJCJlH8VbjzRcSqkXZ%2FT1hevBFzMOw4bn%2F2LuR4KdU1qDKUBnAjJh1tbQCtbe%2F59wh4JLdfR9GQnULaMVFiUvpe1qZtxV%2BYzWm0%2BUlremZGrg%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.6",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-22T12:15:21.922064+00:00"
   }
 ]
