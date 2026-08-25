@@ -1,5 +1,52 @@
 [
   {
+    "itemId": "v1|307145448373|0",
+    "objekt": "1g Goldbarren Heimerle + Meule / PAMP Suisse \"Rosa\" - Feingold 999,9 1 Gramm",
+    "gebot": "137.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/307145448373?_skw=goldbarren+999&hash=item47834b9bb5:g:cyQAAeSwEu1qjYuS",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-25T13:31:37.033310+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:137.0€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|366625671823|0",
+    "objekt": "Cartier Armreif Love Roségold 750 Größe 16 2013 Gold Damen Armband",
+    "gebot": "5990.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/366625671823?_skw=Cartier+armband&hash=item555c97ca8f:g:US8AAOSwX2hn5Uxg",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-25T13:31:37.033310+00:00"
+  },
+  {
+    "itemId": "v1|366627880817|0",
+    "objekt": "Original Tiffany & Co. Herz Band Ring Größe 6 Silber 925 & Gold mit Etui",
+    "gebot": "298.35",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/366627880817?_skw=Tiffany+gold+ring&hash=item555cb97f71:g:igEAAeSwYQVqi8MJ",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.9",
+    "grund": "Markenschmuck (Tiffany)",
+    "gefundenAm": "2026-08-25T13:31:37.033310+00:00"
+  },
+  {
+    "itemId": "v1|168496092280|0",
+    "objekt": "950 Platin Diamant Verlobungsring 2,25 ct Rundschliff IGI-zertifiziert Laborg...",
+    "gebot": "1435.58",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/168496092280?_skw=diamant+ring+IGI&hash=item273b265478:g:eGoAAeSwctZp10da",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-25T13:31:37.033310+00:00"
+  },
+  {
     "itemId": "v1|307145388228|0",
     "objekt": "Goldbarren 5 Gramm Pamp Fortuna 999.9 Gold Barren im Blister Anlagegold 5g",
     "gebot": "544.17",
@@ -2220,52 +2267,5 @@
     "haendlerbewertung": "99.7",
     "grund": "Markenschmuck (Boucheron)",
     "gefundenAm": "2026-08-24T02:10:13.631460+00:00"
-  },
-  {
-    "itemId": "v1|366438062420|0",
-    "objekt": "BREITLING PILOT ARMBAND 18MM 18K 750 GOLD SIRIUS PILOT BRACELET 80 GRAMM",
-    "gebot": "12999.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/366438062420?_skw=750+gold+armband+gramm&hash=item5551691954:g:lS0AAOSw1TBm8aae&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbvwy8L5fWUwDqzJvTHbJXbsE4la%2Fqwgw5ioGsQiQY8NxRc1uYh%2BCH4dDDgP31%2FZx5ZnPmZmvmzVsKdLuAgE7UcyjYGbx5lNFEeN5VE8MhxadLy40keYLmCuCqp%2FSnvu4WwHrjMpGMOnRTedz%2BDrEsElF2QrX5%2FTuvnTLa6no35ATEize9U0ayh6%2BJHy7DtILOE7bhmQmdNfDGLU9bQZcSNmMqDuxvjKhKDSpzryxpy4bCbRZ6vICeZVrLN5n5oN24YWYxfhn6wYrn9%2BLvdfspCPwN%2FlEL9UmxRLp7xEwqczw%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Goldschmuck 80.0g (>= 10.0g)",
-    "gefundenAm": "2026-08-24T02:10:13.631460+00:00",
-    "materialwert": 7272.0,
-    "bewertung": "Nicht kaufen:12999.0€ über Materialwert 7272€",
-    "material": "80.0g 18kt Gold (kein Edelstein)"
-  },
-  {
-    "itemId": "v1|198590691791|0",
-    "objekt": "Chopard Happy Diamond Heart Shape 18k Yellow Gold Ring 3P Floating US 5.5 EU51",
-    "gebot": "1626.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/198590691791?_skw=Chopard+ring+gold&hash=item2e3ced79cf:g:F8QAAeSw8NRqi6Ew&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZm1c2jO%2F%2B%2F5gF1h1za9HYG5uZyov28qWLeq8xL0PtfpBQo44XHTs6DapW%2FFgPvjedlTLPCFBPo68Zt8qVgKnn6LTujPPHY%2F0WrV6z3sElp2AZRpYWRVoPHxEiOnAKcOtK%2F6GpCHnEIl1lw%2Bf5wM47SVqzXuZuZEOq9%2F7frIvmoSBEkco7TZTl2UbSdGTNx0APr1Renj9M0GSnVenXpZ1%2B4hXwygZn%2Febod7bVuRprpHJ62FTbZ%2B0TgdqvhlybBIoK0v8PyNhBEuVqbEo8MqBSxxoNpKepU5XPNzULff8r4Fg%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Chopard)",
-    "gefundenAm": "2026-08-24T02:10:13.631460+00:00"
-  },
-  {
-    "itemId": "v1|178417562467|0",
-    "objekt": "Authentic Chopard Ice Cube Ring #230-000-728-5010",
-    "gebot": "1558.70",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/178417562467?_skw=Chopard+ring+gold&hash=item298a83f363:g:VO0AAeSwGDJqhtwa&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZwF6lCrFpzjhfujKrnxrpMk%2Fkr2CLcbaon3PHyxhJnJ3FVZ86rwdRdKdeNiFkslh8ldm86d5V5wQ9NfMr0EbmUnDMwcqCSBqpDKMv5Zmtkmoz2g2rXjD%2FV0U6jEUvC1PidySflFmExUNLC0554G4%2BpDMnYPtr0u5rJlQTBc3l2HboYHhGVU53IeD%2FpDAGhyHB3NDGLGm0%2BwbhEbd6NtNNNSHNXT3C2X0r5D3FCqTgPJflsY2N7vhS7chONy3y%2FISQo3DTQpktl16Ep4W%2BAT3AOnhprNo14XNjzIiWNKGzM4w%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Chopard)",
-    "gefundenAm": "2026-08-24T00:33:20.882270+00:00"
-  },
-  {
-    "itemId": "v1|407165189738|0",
-    "objekt": "Authentischer klassischer Boucheron Quatre Ring #230-000-388-0257",
-    "gebot": "1598.38",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/407165189738?_skw=Boucheron+ring&hash=item5eccefbe6a:g:XCEAAeSwiOxqi2A~",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.5",
-    "grund": "Markenschmuck (Boucheron)",
-    "gefundenAm": "2026-08-23T23:52:20.133862+00:00"
   }
 ]
