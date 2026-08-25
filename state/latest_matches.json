@@ -1,5 +1,19 @@
 [
   {
+    "itemId": "v1|178439886026|0",
+    "objekt": "2x 2g Goldbarren C. Hafner 999.9 Feingold",
+    "gebot": "500.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/178439886026?_skw=goldbarren+999&hash=item298bd894ca:g:CQ0AAeSwlktqWMzB",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-25T16:56:37.680829+00:00",
+    "materialwert": 242.16,
+    "bewertung": "Nicht kaufen:500.0€ über Materialwert 242€",
+    "material": "2.0g Feingold 999.9"
+  },
+  {
     "itemId": "v1|178439766142|0",
     "objekt": "Authentischer kleiner Van Cleef & Arpels Perlée Ring #230-000-332-2467",
     "gebot": "1264.01",
@@ -2258,17 +2272,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "100.0",
     "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-24T04:08:49.757146+00:00"
-  },
-  {
-    "itemId": "v1|398251662869|0",
-    "objekt": "Cartier Mon Amour Ring K18PG Pink Gold Heart Motif US6 EU51 France",
-    "gebot": "1162.77",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/398251662869?_skw=Cartier+ring+gold&hash=item5cb9a61e15:g:cwcAAeSwPmNqFRgr",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-24T04:08:49.757146+00:00"
   }
 ]
