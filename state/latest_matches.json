@@ -1,5 +1,41 @@
 [
   {
+    "itemId": "v1|178439898170|0",
+    "objekt": "1x 2g Goldbarren C. Hafner 999.9 Feingold",
+    "gebot": "255.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/178439898170?_skw=goldbarren+999&hash=item298bd8c43a:g:CQ0AAeSwlktqWMzB",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-25T17:23:36.002678+00:00",
+    "materialwert": 242.16,
+    "bewertung": "Nicht kaufen:255.0€ über Materialwert 242€",
+    "material": "2.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|198593874466|0",
+    "objekt": "Diamant Damen Ring E F VVS Lab Grown Smaragdschliff IGI CVD 2,10 Ct PT950 Platin",
+    "gebot": "2231.41",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/198593874466?_skw=diamant+ring+IGI&hash=item2e3d1e0a22:g:3PUAAeSw2G9qjX-v",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-25T17:23:36.002678+00:00"
+  },
+  {
+    "itemId": "v1|146970950347|0",
+    "objekt": "Diamant Ring Verlobung Gold Lab Grown Ovalschliff IGI GIA 18k Gelb 1 Karat",
+    "gebot": "1174.21",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/146970950347?_skw=diamant+ring+GIA&hash=item223826bacb:g:KjwAAOSwyaFlL88Y",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-25T17:23:36.002678+00:00"
+  },
+  {
     "itemId": "v1|178439886026|0",
     "objekt": "2x 2g Goldbarren C. Hafner 999.9 Feingold",
     "gebot": "500.00",
@@ -2239,39 +2275,6 @@
     "haendlertyp": "gewerblich",
     "haendlerbewertung": "99.2",
     "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-24T04:08:49.757146+00:00"
-  },
-  {
-    "itemId": "v1|117374377047|0",
-    "objekt": "Van Cleef & Arpels Damen Ring 12 K18 Gelbgold YG Macalit VCAR03M152 Magi...",
-    "gebot": "6444.90",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/117374377047?_skw=Van+Cleef+Arpels+ring&hash=item1b540edc57:g:X90AAeSwcXFqi8EY",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.2",
-    "grund": "Markenschmuck (Van Cleef)",
-    "gefundenAm": "2026-08-24T04:08:49.757146+00:00"
-  },
-  {
-    "itemId": "v1|198590831984|0",
-    "objekt": "Chopard Happy Diamant Herzform 18k Gelbgold Ring 3P Floating US 5,5 EU51",
-    "gebot": "1494.80",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/198590831984?_skw=Chopard+ring+gold&hash=item2e3cef9d70:g:580AAeSwnsNqi7ms",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Markenschmuck (Chopard)",
-    "gefundenAm": "2026-08-24T04:08:49.757146+00:00"
-  },
-  {
-    "itemId": "v1|366230219559|0",
-    "objekt": "Diamant-Verlobungsring Lab Grown Ovalschliff 1,60 kt IGI 18 kt Gelbgold E F VVS2",
-    "gebot": "1368.90",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/366230219559?_skw=diamant+ring+IGI&hash=item554505ab27:g:TCcAAOSwmyVoOY-I",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
     "gefundenAm": "2026-08-24T04:08:49.757146+00:00"
   }
 ]
