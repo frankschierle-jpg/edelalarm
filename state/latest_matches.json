@@ -1,5 +1,63 @@
 [
   {
+    "itemId": "v1|307145434141|0",
+    "objekt": "Goldbarren 1 Gramm 999.9  Gold  UMICORE Barren Gold ,999 von Gold to Go",
+    "gebot": "149.55",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/307145434141?_skw=goldbarren+999&hash=item47834b641d:g:JLEAAeSwVsxqjYjd",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Anlagegold (Barren/Münze)",
+    "gefundenAm": "2026-08-25T14:24:30.172148+00:00",
+    "materialwert": 121.08,
+    "bewertung": "Nicht kaufen:149.55€ über Materialwert 121€",
+    "material": "1.0g Feingold 999.9"
+  },
+  {
+    "itemId": "v1|206514752406|0",
+    "objekt": "Van Cleef & Arpels PERRELET Ring 750 (WG) 2,3g 55 KARPFEN 55",
+    "gebot": "1158.38",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/206514752406?_skw=Van+Cleef+Arpels+ring&hash=item30153d0b96:g:dHgAAeSwcZxqjaD3",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.4",
+    "grund": "Markenschmuck (Van Cleef)",
+    "gefundenAm": "2026-08-25T14:24:30.172148+00:00"
+  },
+  {
+    "itemId": "v1|206514752932|0",
+    "objekt": "Van Cleef & Arpels Frivole Diamant Ring 750 (WG) 4,3g 51",
+    "gebot": "6189.67",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/206514752932?_skw=Van+Cleef+Arpels+ring&hash=item30153d0da4:g:O7AAAeSwSUNqjaFZ",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.4",
+    "grund": "Markenschmuck (Van Cleef)",
+    "gefundenAm": "2026-08-25T14:24:30.172148+00:00"
+  },
+  {
+    "itemId": "v1|178439241204|0",
+    "objekt": "Genuine New Cartier Must 21 15mm Watch Bracelet Band Link",
+    "gebot": "111.09",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/178439241204?_skw=Cartier+armband&hash=item298bcebdf4:g:P48AAeSw6Shnuys7",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.7",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-25T14:24:30.172148+00:00"
+  },
+  {
+    "itemId": "v1|178439460014|0",
+    "objekt": "Authentic Van Cleef & Arpels Perlée Small Ring #230-000-332-2467",
+    "gebot": "1264.07",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/178439460014?_skw=Van+Cleef+Arpels+ring&hash=item298bd214ae:g:xlsAAeSwlyZqjZqu&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZoUIu5PI9SAySgBK%2BHXY0nwaurVTlwJ4Wkd8za58T8CZWJNzrZmeaQqOWek5czzrMksnn3%2FMgOA6SaJA5mVE44dVswZ82gOIS3XVwTA2wVJwPFkU7xARMirxMQIhmKawWS0ny%2BPEPMS9W%2B%2FhjBWmTiHyhYhJsNWB0KODhiGPKqyNTVDpszrddIeAJp6Tk0QR7%2BkoSK26S4gG9ZCby%2FV31mo40LjmRIq%2Fg5UgATVmcAvZJog%2BP4da28DI%2FDPm4uuM0wK70MTPLaRzoM7YlY5nBvBy53PeTtKLeeKRzWiZbyUQ%3D%3D",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Markenschmuck (Van Cleef)",
+    "gefundenAm": "2026-08-25T14:24:30.172148+00:00"
+  },
+  {
     "itemId": "v1|307145448373|0",
     "objekt": "1g Goldbarren Heimerle + Meule / PAMP Suisse \"Rosa\" - Feingold 999,9 1 Gramm",
     "gebot": "137.00",
@@ -2212,60 +2270,5 @@
     "haendlerbewertung": "100.0",
     "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-24T03:17:35.812082+00:00"
-  },
-  {
-    "itemId": "v1|318322056505|0",
-    "objekt": "1962 Canadian Cent – Vintage Maple Leaf Penny – EYE CATCHING DARKBLACK PATINA",
-    "gebot": "1070.30",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/318322056505?_skw=maple+leaf+gold+coin&hash=item4a1d791d39:g:2zQAAeSw1ctqCwab&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZnWxdlBGBijjB%2FKxGXcAG3%2Bf4MbTCAkHk7ZKXFg%2BqAF55e0xRA4uz7EDhf5UNitkH%2FflDolWkYFRxQBIsYGDuEEB3w9rlO%2BNKwR2B%2BPn9j9fW1biHaTIUMi2wTQLAxnGLq3%2F45N1EylPkXQ5nH9B7Y9fK9HnV6IlzDbRveKH%2FCOJMnqZc%2B3HHlLRex7C32KSxG2toQ9u01LYPMhNTOyUt7hDURt0x2WOvh4h3pW0R9R3d9DxM4YPCnPzmzaWatKgFRoN86GCuqMW9I94yukO9pj9Tt9QP4weHTfPq7nayfTg%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-24T03:17:35.812082+00:00"
-  },
-  {
-    "itemId": "v1|398298801305|0",
-    "objekt": "Vintage Chopard Happy Diamonds Ruby 18k Yellow Gold Cocktail Ring US 6.5 EU 53",
-    "gebot": "1609.73",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/398298801305?_skw=Chopard+ring+gold&hash=item5cbc756499:g:2AsAAeSw7RNqhAzd",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.8",
-    "grund": "Markenschmuck (Chopard)",
-    "gefundenAm": "2026-08-24T03:17:35.812082+00:00"
-  },
-  {
-    "itemId": "v1|197510532411|0",
-    "objekt": "Massiver 950 Platin Damen Ohrring 5 Karat IGI Lab Grown Asscher Cut Diamant O...",
-    "gebot": "1897.20",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/197510532411?_skw=diamant+ring+IGI&hash=item2dfc8b8d3b:g:6DQAAOSwDZZn7hFP",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
-    "gefundenAm": "2026-08-24T03:17:35.812082+00:00"
-  },
-  {
-    "itemId": "v1|389764749671|0",
-    "objekt": "Tiffany & Co. 4,25 Herz Schloss Schlüsselloch Dangle Goldring 925 Silber 5,5 g",
-    "gebot": "246.60",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/389764749671?_skw=Tiffany+gold+ring&hash=item5abfca1967:g:kjYAAeSwy3xpukta",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.6",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-24T02:10:13.631460+00:00"
-  },
-  {
-    "itemId": "v1|137653660251|0",
-    "objekt": "Boucheron Quatre weißer Diamant Ring Größe 62/#22/groß K18PG/K18YG/K18WG/Cera...",
-    "gebot": "5060.36",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/137653660251?_skw=Boucheron+ring&hash=item200ccc2a5b:g:n6gAAeSwzVlqi6J8",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.7",
-    "grund": "Markenschmuck (Boucheron)",
-    "gefundenAm": "2026-08-24T02:10:13.631460+00:00"
   }
 ]
