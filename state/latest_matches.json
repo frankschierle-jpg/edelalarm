@@ -1,5 +1,27 @@
 [
   {
+    "itemId": "v1|318520841277|0",
+    "objekt": "Cartier Tank Louis 18K Gelbgold Armbanduhr 23mm Medium Size",
+    "gebot": "5990.00",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/318520841277?_skw=Cartier+armband&hash=item4a2952543d:g:uFAAAeSwT0xqQsRX",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Markenschmuck (Cartier)",
+    "gefundenAm": "2026-08-25T23:15:51.919245+00:00"
+  },
+  {
+    "itemId": "v1|198593966415|0",
+    "objekt": "Platin Verlobungsring E F VVS Oval Diamant 1,30 Karat Lab Grown IGI CVD PT950",
+    "gebot": "1959.62",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.de/itm/198593966415?_skw=diamant+ring+IGI&hash=item2e3d1f714f:g:bNsAAeSwDqFqjYzJ",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "100.0",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-08-25T23:15:51.919245+00:00"
+  },
+  {
     "itemId": "v1|198593967390|0",
     "objekt": "Diamant Verlobungsring Lab Grown E F VVS 1,30 Karat Oval IGI CVD 18K Weißgold",
     "gebot": "1863.42",
@@ -2245,30 +2267,5 @@
     "haendlerbewertung": "99.9",
     "grund": "Markenschmuck (Cartier)",
     "gefundenAm": "2026-08-24T13:33:29.737276+00:00"
-  },
-  {
-    "itemId": "v1|397574461546|0",
-    "objekt": "Tiffany Co. Elsa Peretti Diamonds by the Yard 18k Yellow Gold Ring Size 54",
-    "gebot": "816.85",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.nl/itm/397574461546?_skw=Tiffany+gold+ring&hash=item5c9148d86a:g:c28AAeSwwaxpwuq-&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYmCcw7ktq%2B8%2FaOFuk8ToXYo1wdh7%2B1Z3yDhit5cA%2BENEI1wzDS2q3ztzZfWZFVyrx59J89Ijb2jJlCDnqrb5Rbyr8arLvt55tUe7EurE3CHgMepAGKT%2FxL3QwwuYSmWtrfT%2FU4H4XMkynPcYyFNwcZIvKYWCSvhUEEJjY%2B3Lsk65kHWbVA5WVCMcEskAv4z8usmhCzXSuwSGkd8Jqep6pggj7OwFR5M%2Fz9QrZ6OzCKWu9lHd01%2BGTPH0ZQEtJTH1sdq2nXFB6xXHdPdet9q%2FFzMfHJN1aT7SlXXkjBVFok%2FQ%3D%3D",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "99.7",
-    "grund": "Markenschmuck (Tiffany)",
-    "gefundenAm": "2026-08-24T13:33:29.737276+00:00"
-  },
-  {
-    "itemId": "v1|398318971229|0",
-    "objekt": "Pamp Suisse 1 Gramm  Goldbarren 999.9",
-    "gebot": "319.00",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/398318971229?_skw=goldbarren+999&hash=item5cbda9295d:g:Xc8AAeSweM5qOSex",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "100.0",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-08-24T12:22:08.741737+00:00",
-    "materialwert": 121.08,
-    "bewertung": "Nicht kaufen:319.0€ über Materialwert 121€",
-    "material": "1.0g Feingold 999.9"
   }
 ]
