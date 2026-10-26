@@ -1,5 +1,16 @@
 [
   {
+    "itemId": "v1|117487321152|0",
+    "objekt": "Vintage Platinum 1.48ct Round Diamond and Baguette Engagement Ring GIA Cert",
+    "gebot": "3119.98",
+    "waehrung": "EUR",
+    "link": "https://www.ebay.nl/itm/117487321152?_skw=diamant+ring+GIA&hash=item1b5aca4040:g:750AAeSw2pJq3pys",
+    "haendlertyp": "gewerblich",
+    "haendlerbewertung": "99.5",
+    "grund": "Edelstein mit Zertifikat (GIA/HRD/IGI)",
+    "gefundenAm": "2026-10-26T01:14:14.449724+00:00"
+  },
+  {
     "itemId": "v1|407240449173|0",
     "objekt": "Goldbarren Heimerle und Meule 1/100 oz 999,9 Gold Prägefrisch Deutschland",
     "gebot": "78.00",
@@ -2256,19 +2267,5 @@
     "materialwert": 12.11,
     "bewertung": "Nicht kaufen:25.0€ über Materialwert 12€",
     "material": "0.1g Feingold 999.9"
-  },
-  {
-    "itemId": "v1|287672348028|0",
-    "objekt": "Pamp Suisse 1g Goldbarren 999,9 Feingold versiegelt in Testkarte - aus Multicard",
-    "gebot": "152.94",
-    "waehrung": "EUR",
-    "link": "https://www.ebay.de/itm/287672348028?_skw=gold+bar+999.9&hash=item42fa9bad7c:g:eisAAeSw8HVqMZJS",
-    "haendlertyp": "gewerblich",
-    "haendlerbewertung": "98.6",
-    "grund": "Anlagegold (Barren/Münze)",
-    "gefundenAm": "2026-10-23T21:06:15.233851+00:00",
-    "materialwert": 121.08,
-    "bewertung": "Nicht kaufen:152.94€ über Materialwert 121€",
-    "material": "1.0g Feingold 999.9"
   }
 ]
